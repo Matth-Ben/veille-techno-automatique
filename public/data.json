@@ -1,5 +1,5 @@
 {
-  "lastUpdate": "2026-06-30T16:12:11.990Z",
+  "lastUpdate": "2026-06-30T19:48:36.010Z",
   "articles": [
     {
       "id": "acc65bf93d69b369",
@@ -37,6 +37,39 @@
       "fetchedAt": "2026-06-30T16:03:50.699Z"
     },
     {
+      "id": "9c6caeeff0846558",
+      "title": "Applying a SAST Tool to Infrastructure as Code: Scanning a Terraform Stack with Checkov",
+      "url": "https://dev.to/diego_fabrizioandianava/applying-a-sast-tool-to-infrastructure-as-code-scanning-a-terraform-stack-with-checkov-5402",
+      "source": "Dev.to",
+      "date": "Tue, 30 Jun 2026 19:10:58 +0000",
+      "score": 8,
+      "reason": "Article pratique et détaillé sur l'application de Checkov à une stack Terraform réaliste. Démontre concrètement comment identifier et corriger les misconfigurations IaC, avec code exécutable et une perspective nuancée sur l'interprétation des résultats de SAST.",
+      "tags": [
+        "devops",
+        "security",
+        "terraform",
+        "tooling",
+        "iac"
+      ],
+      "fetchedAt": "2026-06-30T19:47:36.261Z"
+    },
+    {
+      "id": "1141cab4ed72e3f7",
+      "title": "Why Accessibility Is An Operational Capability, Not A Feature",
+      "url": "https://smashingmagazine.com/2026/06/why-accessibility-operational-capability-not-feature/",
+      "source": "Smashing Magazine",
+      "date": "Tue, 30 Jun 2026 12:00:00 GMT",
+      "score": 8,
+      "reason": "Article pertinent sur l'accessibilité web comme pratique opérationnelle intégrée au développement, plutôt que comme simple conformité. Approche moderne et pratique alignée avec les best practices actuelles.",
+      "tags": [
+        "a11y",
+        "best-practices",
+        "devops",
+        "career"
+      ],
+      "fetchedAt": "2026-06-30T19:47:39.981Z"
+    },
+    {
       "id": "913bdb52f776fe4c",
       "title": "A/B Testing at Warp Speed: How Cloudflare Workers Revolutionize HTML Experiments",
       "url": "https://dev.to/sohanaakbar7/ab-testing-at-warp-speed-how-cloudflare-workers-revolutionize-html-experiments-1kdf",
@@ -68,6 +101,38 @@
         "tooling"
       ],
       "fetchedAt": "2026-06-30T16:04:12.285Z"
+    },
+    {
+      "id": "a5348046b813caac",
+      "title": "Common Next.js Errors (and How I Solved Them)",
+      "url": "https://dev.to/gary_killen37/common-nextjs-errors-and-how-i-solved-them-193o",
+      "source": "Dev.to",
+      "date": "Tue, 30 Jun 2026 19:21:32 +0000",
+      "score": 7,
+      "reason": "Article pratique et bien structuré couvrant les erreurs courantes de Next.js avec solutions claires. Utile pour les développeurs intermédiaires, mais manque de profondeur technique et de cas avancés.",
+      "tags": [
+        "nextjs",
+        "javascript",
+        "tutorial",
+        "debugging"
+      ],
+      "fetchedAt": "2026-06-30T19:47:23.626Z"
+    },
+    {
+      "id": "eb7a8cdb0c38b6da",
+      "title": "Reading Anthropic's \"When AI Builds Itself\" Changed How I Think About AI and Software Engineering",
+      "url": "https://dev.to/hemapriya_kanagala/reading-anthropics-when-ai-builds-itself-changed-how-i-think-about-ai-and-software-engineering-3eh",
+      "source": "Dev.to",
+      "date": "Tue, 30 Jun 2026 19:15:56 +0000",
+      "score": 7,
+      "reason": "Article réfléchi sur l'impact de l'IA sur le développement logiciel, basé sur une analyse approfondie d'un essai d'Anthropic. Offre une perspective nuancée et rassurante sur l'évolution du métier plutôt qu'un remplacement, mais reste principalement une analyse d'opinion sans code pratique ou nouvelles techniques concrètes.",
+      "tags": [
+        "ai",
+        "career",
+        "news",
+        "javascript"
+      ],
+      "fetchedAt": "2026-06-30T19:47:28.048Z"
     },
     {
       "id": "4810125ba884022f",
