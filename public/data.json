@@ -1,6 +1,23 @@
 {
-  "lastUpdate": "2026-06-30T16:04:56.276Z",
+  "lastUpdate": "2026-06-30T16:12:11.990Z",
   "articles": [
+    {
+      "id": "acc65bf93d69b369",
+      "title": "My agent kept reading data it wasn't allowed to. The prompt was never going to stop it.",
+      "url": "https://dev.to/abdullahsaad5/my-agent-kept-reading-data-it-wasnt-allowed-to-the-prompt-was-never-going-to-stop-it-564k",
+      "source": "Dev.to",
+      "date": "Tue, 30 Jun 2026 16:01:12 +0000",
+      "score": 9,
+      "reason": "Article technique approfondi sur la sécurité des agents IA avec des insights pratiques et une architecture bien pensée. Démontre comment implémenter correctement le contrôle d'accès en contournant les limitations des prompts, avec des patterns réutilisables et des leçons critiques pour la production.",
+      "tags": [
+        "security",
+        "api",
+        "devops",
+        "nodejs",
+        "architecture"
+      ],
+      "fetchedAt": "2026-06-30T16:11:11.529Z"
+    },
     {
       "id": "4166d99a8d9ef851",
       "title": "I Moved My Next.js Dashboard Logic Into Postgres. My Frontend Got Boring (And That's the Point).",
@@ -51,6 +68,23 @@
         "tooling"
       ],
       "fetchedAt": "2026-06-30T16:04:12.285Z"
+    },
+    {
+      "id": "4810125ba884022f",
+      "title": "Why Your Vue.js Site Isn't Ranking on Google",
+      "url": "https://dev.to/f4ban/why-your-vuejs-site-isnt-ranking-on-google-16p3",
+      "source": "Dev.to",
+      "date": "Tue, 30 Jun 2026 16:01:31 +0000",
+      "score": 7,
+      "reason": "Article pratique sur un problème réel du SEO avec Vue.js/Nuxt. Explique clairement le problème du rendu côté client et propose une solution concrète avec exemple de code. Pertinent pour les développeurs Vue mais limité à un cas d'usage spécifique.",
+      "tags": [
+        "vue",
+        "seo",
+        "nuxt",
+        "performance",
+        "tutorial"
+      ],
+      "fetchedAt": "2026-06-30T16:11:09.171Z"
     },
     {
       "id": "503a006b2766af57",
