@@ -1,4 +1,101 @@
 {
-  "lastUpdate": "2026-06-30T16:01:37.369Z",
-  "articles": []
+  "lastUpdate": "2026-06-30T16:04:56.276Z",
+  "articles": [
+    {
+      "id": "4166d99a8d9ef851",
+      "title": "I Moved My Next.js Dashboard Logic Into Postgres. My Frontend Got Boring (And That's the Point).",
+      "url": "https://dev.to/mwiginton/i-moved-my-nextjs-dashboard-logic-into-postgres-my-frontend-got-boring-and-thats-the-point-2k6p",
+      "source": "Dev.to",
+      "date": "Tue, 30 Jun 2026 15:29:44 +0000",
+      "score": 9,
+      "reason": "Article excellent sur l'architecture moderne avec Next.js et Postgres. Démontre une best practice importante (déplacer l'agrégation en base de données) avec code concret, explications claires et trade-offs honnêtes. Très pertinent pour les développeurs fullstack.",
+      "tags": [
+        "nextjs",
+        "database",
+        "typescript",
+        "performance",
+        "architecture",
+        "tutorial"
+      ],
+      "fetchedAt": "2026-06-30T16:03:50.699Z"
+    },
+    {
+      "id": "913bdb52f776fe4c",
+      "title": "A/B Testing at Warp Speed: How Cloudflare Workers Revolutionize HTML Experiments",
+      "url": "https://dev.to/sohanaakbar7/ab-testing-at-warp-speed-how-cloudflare-workers-revolutionize-html-experiments-1kdf",
+      "source": "Dev.to",
+      "date": "Tue, 30 Jun 2026 15:31:52 +0000",
+      "score": 8,
+      "reason": "Article pratique et bien structuré sur une technique moderne (edge computing pour A/B testing) avec code réutilisable et cas d'usage concrets. Démontre une approche innovante pour résoudre un problème réel de performance web.",
+      "tags": [
+        "performance",
+        "devops",
+        "javascript",
+        "tooling",
+        "a11y"
+      ],
+      "fetchedAt": "2026-06-30T16:03:40.584Z"
+    },
+    {
+      "id": "5d4f47ea25619b19",
+      "title": "Algorithmic Theming Engines: Building Self-Correcting Color Systems With `contrast-color()`",
+      "url": "https://smashingmagazine.com/2026/05/building-self-correcting-color-systems-contrast-color/",
+      "source": "Smashing Magazine",
+      "date": "Thu, 28 May 2026 13:00:00 GMT",
+      "score": 8,
+      "reason": "Article sur une fonctionnalité CSS moderne cruciale pour l'accessibilité web. Aborde un problème réel (contraste WCAG) avec une solution native CSS innovante, très pertinent pour les développeurs modernes.",
+      "tags": [
+        "css",
+        "a11y",
+        "performance",
+        "tooling"
+      ],
+      "fetchedAt": "2026-06-30T16:04:12.285Z"
+    },
+    {
+      "id": "503a006b2766af57",
+      "title": "Advanced Tree Counting: Mathematical Layouts With `sibling-index()` And `sibling-count()`",
+      "url": "https://smashingmagazine.com/2026/05/mathematical-layouts-sibling-index-sibling-count/",
+      "source": "Smashing Magazine",
+      "date": "Thu, 21 May 2026 08:00:00 GMT",
+      "score": 7,
+      "reason": "Article intéressant sur des fonctionnalités CSS modernes et utiles pour les layouts. Bien que spécialisé, il offre une solution pratique aux développeurs frontend pour des effets visuels sans JavaScript.",
+      "tags": [
+        "css",
+        "performance",
+        "tooling"
+      ],
+      "fetchedAt": "2026-06-30T16:04:17.795Z"
+    },
+    {
+      "id": "e6686d089ddac1fb",
+      "title": "The Shifting Line Between CSS States and JavaScript Events",
+      "url": "https://css-tricks.com/css-states-and-javascript-events/",
+      "source": "CSS-Tricks",
+      "date": "Mon, 29 Jun 2026 13:03:32 +0000",
+      "score": 7,
+      "reason": "Article intéressant sur l'évolution des capacités CSS et son interaction avec JavaScript, couvrant des tendances modernes pertinentes pour les développeurs web. Contenu éducatif mais sans code pratique détaillé.",
+      "tags": [
+        "css",
+        "javascript",
+        "tooling"
+      ],
+      "fetchedAt": "2026-06-30T16:04:42.032Z"
+    },
+    {
+      "id": "c652b6f3bdf95152",
+      "title": "The Siren Song of ariaNotify()",
+      "url": "https://css-tricks.com/the-siren-song-of-arianotify/",
+      "source": "CSS-Tricks",
+      "date": "Wed, 17 Jun 2026 15:32:30 +0000",
+      "score": 7,
+      "reason": "Article pertinent sur une nouvelle API d'accessibilité (ariaNotify) du WAI-ARIA 1.3. Utile pour les développeurs travaillant sur l'accessibilité web, bien que spécialisé et non applicable à tous les projets.",
+      "tags": [
+        "a11y",
+        "javascript",
+        "api"
+      ],
+      "fetchedAt": "2026-06-30T16:04:54.055Z"
+    }
+  ]
 }
