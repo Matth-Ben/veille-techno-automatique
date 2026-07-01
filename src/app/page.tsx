@@ -2,9 +2,9 @@ import ArticleCard from "@/components/ArticleCard";
 import type { Article } from "@/types";
 import Link from "next/link";
 
-const GITHUB_OWNER = process.env.GITHUB_OWNER || "";
-const GITHUB_REPO = process.env.GITHUB_REPO || "";
-const GITHUB_BRANCH = process.env.GITHUB_BRANCH || "main";
+const GITHUB_OWNER = process.env.GITHUB_OWNER || "Matth-Ben";
+const GITHUB_REPO = process.env.GITHUB_REPO || "veille-techno-automatique";
+const GITHUB_BRANCH = process.env.GITHUB_BRANCH || "master";
 
 async function getArticles(): Promise<Article[]> {
   const url = `https://raw.githubusercontent.com/${GITHUB_OWNER}/${GITHUB_REPO}/${GITHUB_BRANCH}/public/data.json`;

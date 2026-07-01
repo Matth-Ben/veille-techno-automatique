@@ -1,8 +1,8 @@
 import { NextResponse } from "next/server";
 
-const GITHUB_OWNER = process.env.GITHUB_OWNER || "";
-const GITHUB_REPO = process.env.GITHUB_REPO || "";
-const GITHUB_BRANCH = process.env.GITHUB_BRANCH || "main";
+const GITHUB_OWNER = process.env.GITHUB_OWNER || "Matth-Ben";
+const GITHUB_REPO = process.env.GITHUB_REPO || "veille-techno-automatique";
+const GITHUB_BRANCH = process.env.GITHUB_BRANCH || "master";
 
 export async function GET() {
   try {
