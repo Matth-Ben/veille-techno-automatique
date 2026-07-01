@@ -1,6 +1,44 @@
 {
-  "lastUpdate": "2026-06-30T19:48:36.010Z",
+  "lastUpdate": "2026-07-01T09:37:54.338Z",
   "articles": [
+    {
+      "id": "683aa099788132d9",
+      "title": "I Made TS Compiler Graph MCP: 10x Fewer Tokens in Claude Code",
+      "url": "https://dev.to/samchon/i-made-ts-compiler-graph-mcp-10x-fewer-tokens-in-claude-code-1aea",
+      "source": "Dev.to",
+      "date": "Wed, 01 Jul 2026 09:14:14 +0000",
+      "score": 9,
+      "reason": "Article technique approfondi sur une innovation majeure en développement web : un outil MCP TypeScript qui réduit les tokens de 10x pour les agents IA. Contient benchmarks détaillés, analyse comparative rigoureuse, et insights précieux sur l'architecture des outils d'IA pour développeurs.",
+      "tags": [
+        "typescript",
+        "tooling",
+        "ai",
+        "performance",
+        "nodejs",
+        "devops"
+      ],
+      "fetchedAt": "2026-07-01T09:36:30.668Z"
+    },
+    {
+      "id": "f716d4efa02d189c",
+      "title": "AI Metrics Baseline: Prove Your Feature Works Before Scaling It",
+      "url": "https://dev.to/jackm-singularity/ai-metrics-baseline-prove-your-feature-works-before-scaling-it-ilg",
+      "source": "Dev.to",
+      "date": "Wed, 01 Jul 2026 09:11:47 +0000",
+      "score": 9,
+      "reason": "Article extrêmement pratique et complet sur la mise en place de métriques pour les features IA en production. Fournit des frameworks concrets, des exemples de code TypeScript, des templates et des checklist directement applicables. Aborde les pièges réels et les décisions d'ingénierie critiques.",
+      "tags": [
+        "ai",
+        "metrics",
+        "performance",
+        "testing",
+        "nodejs",
+        "typescript",
+        "devops",
+        "best-practices"
+      ],
+      "fetchedAt": "2026-07-01T09:36:35.753Z"
+    },
     {
       "id": "acc65bf93d69b369",
       "title": "My agent kept reading data it wasn't allowed to. The prompt was never going to stop it.",
@@ -35,6 +73,25 @@
         "tutorial"
       ],
       "fetchedAt": "2026-06-30T16:03:50.699Z"
+    },
+    {
+      "id": "52ea2ceabb3171bb",
+      "title": "How I Built a Free Online Image & PDF Processing Platform with Vue 3 + FastAPI",
+      "url": "https://dev.to/iamuu/how-i-built-a-free-online-image-pdf-processing-platform-with-vue-3-fastapi-4p4o",
+      "source": "Dev.to",
+      "date": "Wed, 01 Jul 2026 09:02:50 +0000",
+      "score": 8,
+      "reason": "Article technique détaillé sur une architecture full-stack moderne (Vue 3 + FastAPI) avec des insights précieux sur les défis réels du traitement de fichiers en production. Excellente documentation des choix technologiques et des problèmes résolus.",
+      "tags": [
+        "vue",
+        "typescript",
+        "fastapi",
+        "nodejs",
+        "devops",
+        "architecture",
+        "tutorial"
+      ],
+      "fetchedAt": "2026-07-01T09:36:40.910Z"
     },
     {
       "id": "9c6caeeff0846558",
@@ -101,6 +158,22 @@
         "tooling"
       ],
       "fetchedAt": "2026-06-30T16:04:12.285Z"
+    },
+    {
+      "id": "d7756c56ba630a35",
+      "title": "How to Write a Pull Request Description with AI",
+      "url": "https://dev.to/leveragenotes/how-to-write-a-pull-request-description-with-ai-24ma",
+      "source": "Dev.to",
+      "date": "Wed, 01 Jul 2026 09:01:01 +0000",
+      "score": 7,
+      "reason": "Article pratique et actionnable sur l'utilisation d'IA pour améliorer la qualité des PR descriptions. Offre un workflow concret et reproductible, bien que le sujet soit relativement niche et l'impact limité à la documentation plutôt qu'au code lui-même.",
+      "tags": [
+        "devops",
+        "tooling",
+        "ai",
+        "career"
+      ],
+      "fetchedAt": "2026-07-01T09:36:43.995Z"
     },
     {
       "id": "a5348046b813caac",
