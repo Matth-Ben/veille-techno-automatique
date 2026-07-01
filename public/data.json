@@ -1,5 +1,5 @@
 {
-  "lastUpdate": "2026-07-01T09:37:54.338Z",
+  "lastUpdate": "2026-07-01T19:46:47.508Z",
   "articles": [
     {
       "id": "683aa099788132d9",
@@ -158,6 +158,89 @@
         "tooling"
       ],
       "fetchedAt": "2026-06-30T16:04:12.285Z"
+    },
+    {
+      "id": "64fbb546094be66a",
+      "title": "The Amnesia Tax",
+      "url": "https://dev.to/threadctx_dev/the-amnesia-tax-35h8",
+      "source": "Dev.to",
+      "date": "Wed, 01 Jul 2026 19:35:13 +0000",
+      "score": 7,
+      "reason": "Article pertinent sur un problème réel des AI coding agents (perte de contexte entre sessions) avec une solution pratique basée sur MCP. Bien écrit et informatif, mais c'est essentiellement un article de présentation produit avec peu de contenu technique approfondi.",
+      "tags": [
+        "ai",
+        "tooling",
+        "devops",
+        "typescript",
+        "nodejs"
+      ],
+      "fetchedAt": "2026-07-01T19:45:31.793Z"
+    },
+    {
+      "id": "cd6abfa5513c8b30",
+      "title": "How I Built a Free Image Toolkit : freeimgkit (Next.js + WebAssembly)",
+      "url": "https://dev.to/amanuel_snit_e92602511eb4/how-i-built-a-free-image-toolkit-freeimgkit-nextjs-webassembly-47g",
+      "source": "Dev.to",
+      "date": "Wed, 01 Jul 2026 19:24:53 +0000",
+      "score": 7,
+      "reason": "Article pratique montrant une implémentation réelle de Next.js avec WebAssembly et Canvas API. Utile pour comprendre les décisions techniques, mais manque de détails approfondis sur l'optimisation et les défis rencontrés.",
+      "tags": [
+        "nextjs",
+        "typescript",
+        "javascript",
+        "performance",
+        "tooling"
+      ],
+      "fetchedAt": "2026-07-01T19:45:33.952Z"
+    },
+    {
+      "id": "c5496915e8948090",
+      "title": "Today I got a very painful reminder of the importance of using transactions in database migrations.",
+      "url": "https://dev.to/andreamancuso/today-i-got-a-very-painful-reminder-of-the-importance-of-using-transactions-in-database-migrations-3j1f",
+      "source": "Dev.to",
+      "date": "Wed, 01 Jul 2026 19:23:31 +0000",
+      "score": 7,
+      "reason": "Article pratique sur une best practice importante (transactions en migrations DB) avec probablement un retour d'expérience utile, mais sans détails techniques spécifiques fournis.",
+      "tags": [
+        "database",
+        "devops",
+        "best-practices"
+      ],
+      "fetchedAt": "2026-07-01T19:45:35.679Z"
+    },
+    {
+      "id": "e34579e3cc1422c4",
+      "title": "How I Built a Gmail Automation Chrome Extension Using JavaScript and Flask",
+      "url": "https://dev.to/tinytaskpro/how-i-built-a-gmail-automation-chrome-extension-using-javascript-and-flask-3af9",
+      "source": "Dev.to",
+      "date": "Wed, 01 Jul 2026 19:21:41 +0000",
+      "score": 7,
+      "reason": "Article pratique et détaillé sur le développement d'une Chrome extension avec architecture réelle (frontend/backend). Couvre des défis concrets de l'automatisation web et du state management, mais reste spécifique à un cas d'usage particulier sans apporter de concepts révolutionnaires.",
+      "tags": [
+        "javascript",
+        "chrome-extension",
+        "nodejs",
+        "api",
+        "tooling",
+        "tutorial"
+      ],
+      "fetchedAt": "2026-07-01T19:45:40.445Z"
+    },
+    {
+      "id": "ff87e11915b320e6",
+      "title": "Unhappy Path Changed My Backend Perspective...",
+      "url": "https://dev.to/sourav_mahato_3900/unhappy-path-changed-my-backend-perspective-25lc",
+      "source": "Dev.to",
+      "date": "Wed, 01 Jul 2026 19:19:35 +0000",
+      "score": 7,
+      "reason": "Article réfléchi sur les bonnes pratiques backend (validation, error handling, sécurité) avec une perspective pédagogique utile. Manque de code concret et d'exemples pratiques pour un score plus élevé.",
+      "tags": [
+        "backend",
+        "security",
+        "best-practices",
+        "career"
+      ],
+      "fetchedAt": "2026-07-01T19:45:47.909Z"
     },
     {
       "id": "d7756c56ba630a35",
