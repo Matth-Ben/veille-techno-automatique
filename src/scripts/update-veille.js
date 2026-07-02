@@ -13,10 +13,29 @@ const MIN_SCORE = 7;
 
 // Flux RSS de test
 const RSS_FEEDS = [
+  // --- Sources Généralistes & Communautaires (Veille globale) ---
   { name: "Dev.to", url: "https://dev.to/feed" },
   { name: "Smashing Magazine", url: "https://www.smashingmagazine.com/feed" },
-  { name: "WP Tavern", url: "https://wptavern.com/feed" },
   { name: "CSS-Tricks", url: "https://css-tricks.com/feed" },
+
+  // --- Creative Dev, Animations & 3D (GSAP, Three.js, CSS) ---
+  { name: "Codrops", url: "https://tympanus.net/codrops/feed/" },
+  { name: "Awwwards Case Studies", url: "https://www.awwwards.com/blog/feed/" },
+  { name: "Tailwind CSS Blog", url: "https://tailwindcss.com/feeds/feed.xml" },
+
+  // --- Écosystème Moderne & Apps (Next.js, TypeScript, Tauri) ---
+  { name: "Vercel Blog", url: "https://vercel.com/blog/feed" },
+  { name: "Lee Robinson (Next.js Lead)", url: "https://leerob.io/feed.xml" },
+  { name: "Tauri Blog", url: "https://tauri.app/blog/rss.xml" },
+
+  // --- WordPress Architectural (Sur-mesure) ---
+  { name: "WP Tavern", url: "https://wptavern.com/feed" },
+
+  // --- Accessibilité Numérique Expert (RGAA / ARIA) ---
+  { name: "Access-Atoms (Access42)", url: "https://access42.net/feed/" },
+  { name: "Atalan Blog (A11y Fr)", url: "https://www.atalan.fr/blog/index.php/feed/" },
+  { name: "Adrian Roselli", url: "https://adrianroselli.com/feed" },
+  { name: "TPGi (Advanced A11y)", url: "https://www.tpgi.com/feed/" }
 ];
 
 // Génère un ID unique basé sur l'URL
