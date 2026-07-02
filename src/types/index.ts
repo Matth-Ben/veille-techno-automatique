@@ -4,6 +4,7 @@ export interface Article {
   url: string;
   source: string;
   date: string;
+  image?: string | null;
   score: number;
   reason: string;
   tags: string[];

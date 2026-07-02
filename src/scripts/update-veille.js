@@ -163,9 +163,36 @@ Réponds UNIQUEMENT avec le JSON, sans markdown ni explication.`,
   }
 }
 
+// Extrait une image d'illustration depuis un item RSS (enclosure, media:content/thumbnail, ou <img> dans le contenu)
+function extractImage(item) {
+  if (item.enclosure?.url && /^image\//.test(item.enclosure.type || "")) {
+    return item.enclosure.url;
+  }
+
+  const mediaContent = Array.isArray(item.mediaContent)
+    ? item.mediaContent.find((m) => m?.$?.url)
+    : null;
+  if (mediaContent) return mediaContent.$.url;
+
+  if (item.mediaThumbnail?.$?.url) return item.mediaThumbnail.$.url;
+
+  const html = item["content:encoded"] || item.content || item.summary || "";
+  const match = html.match(/<img[^>]+src=["']([^"'>]+)["']/i);
+  if (match) return match[1];
+
+  return null;
+}
+
 // Parse les flux RSS
 async function fetchRssFeeds() {
-  const parser = new Parser();
+  const parser = new Parser({
+    customFields: {
+      item: [
+        ["media:content", "mediaContent", { keepArray: true }],
+        ["media:thumbnail", "mediaThumbnail"],
+      ],
+    },
+  });
   const allItems = [];
 
   for (const feed of RSS_FEEDS) {
@@ -180,6 +207,7 @@ async function fetchRssFeeds() {
           source: feed.name,
           summary: item.contentSnippet || item.content || "",
           date: item.pubDate || item.isoDate || new Date().toISOString(),
+          image: extractImage(item),
         });
       }
 
@@ -273,6 +301,7 @@ async function main() {
           url: item.url,
           source: item.source,
           date: item.date,
+          image: item.image,
           score: analysis.score,
           reason: analysis.reason,
           tags: analysis.tags,

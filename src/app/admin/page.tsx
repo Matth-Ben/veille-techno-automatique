@@ -59,13 +59,13 @@ export default function AdminPage() {
   }
 
   return (
-    <main className="min-h-screen flex flex-col">
+    <main className="flex min-h-screen flex-col bg-gradient-to-b from-slate-50 via-slate-50 to-indigo-50/40">
       {/* Header */}
-      <header className="bg-white border-b border-gray-200 px-4 py-3">
-        <div className="flex items-center justify-between max-w-2xl mx-auto">
+      <header className="border-b border-slate-200/70 bg-white/80 px-4 py-3 backdrop-blur-md">
+        <div className="mx-auto flex max-w-2xl items-center justify-between">
           <Link
             href="/"
-            className="min-w-[44px] min-h-[44px] flex items-center justify-center text-gray-500"
+            className="flex min-h-[44px] min-w-[44px] items-center justify-center rounded-full text-slate-400 transition-colors hover:bg-slate-100 hover:text-slate-600 focus-visible:outline focus-visible:outline-2 focus-visible:outline-offset-2 focus-visible:outline-indigo-500"
             aria-label="Retour"
           >
             <svg
@@ -82,7 +82,9 @@ export default function AdminPage() {
               />
             </svg>
           </Link>
-          <h1 className="text-lg font-semibold text-gray-900">Éditer Prompt</h1>
+          <h1 className="text-lg font-semibold text-slate-900">
+            Éditer Prompt
+          </h1>
           <div className="w-[44px]" />
         </div>
       </header>
@@ -91,7 +93,7 @@ export default function AdminPage() {
       <div className="flex-1 flex flex-col p-4 max-w-2xl mx-auto w-full">
         {isLoading ? (
           <div className="flex-1 flex items-center justify-center">
-            <div className="w-8 h-8 border-4 border-blue-500 border-t-transparent rounded-full animate-spin" />
+            <div className="w-8 h-8 border-4 border-indigo-500 border-t-transparent rounded-full animate-spin" />
           </div>
         ) : (
           <>
@@ -113,7 +115,7 @@ export default function AdminPage() {
               value={prompt}
               onChange={(e) => setPrompt(e.target.value)}
               placeholder="Entrez votre system prompt ici..."
-              className="flex-1 w-full p-4 border border-gray-300 rounded-xl text-base resize-none focus:outline-none focus:ring-2 focus:ring-blue-500 focus:border-transparent font-mono text-sm leading-relaxed"
+              className="w-full flex-1 resize-none rounded-xl border border-slate-200 bg-white p-4 font-mono text-sm leading-relaxed text-slate-800 shadow-sm focus:border-transparent focus:outline-none focus:ring-2 focus:ring-indigo-500"
               style={{ minHeight: "300px" }}
             />
 
@@ -121,12 +123,12 @@ export default function AdminPage() {
             <button
               onClick={handleSave}
               disabled={isSaving}
-              className="mt-4 w-full min-h-[52px] bg-blue-600 text-white font-semibold rounded-xl active:bg-blue-700 disabled:bg-gray-400 disabled:cursor-not-allowed transition-colors"
+              className="mt-4 min-h-[52px] w-full rounded-xl bg-gradient-to-br from-indigo-600 to-violet-500 font-semibold text-white shadow-sm shadow-indigo-500/30 transition-colors active:from-indigo-700 active:to-violet-600 disabled:cursor-not-allowed disabled:from-slate-400 disabled:to-slate-400 disabled:shadow-none"
             >
               {isSaving ? "Sauvegarde..." : "Sauvegarder"}
             </button>
 
-            <p className="mt-3 text-xs text-gray-500 text-center">
+            <p className="mt-3 text-center text-xs text-slate-400">
               Ce prompt sera utilisé comme instructions système pour Claude lors
               de l'analyse des articles.
             </p>
