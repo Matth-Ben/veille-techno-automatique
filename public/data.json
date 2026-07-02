@@ -1,6 +1,21 @@
 {
-  "lastUpdate": "2026-07-02T08:49:02.185Z",
+  "lastUpdate": "2026-07-02T09:17:14.539Z",
   "articles": [
+    {
+      "id": "e246a5d35211d204",
+      "title": "Tailwind CSS v4.0",
+      "url": "https://tailwindcss.com/blog/tailwindcss-v4",
+      "source": "Tailwind CSS Blog",
+      "date": "Wed, 22 Jan 2025 22:00:00 GMT",
+      "score": 9,
+      "reason": "Tailwind v4 représente une évolution majeure de l'écosystème CSS que Matthias utilise quotidiennement ; les améliorations de performance et la nouvelle approche de configuration sont critiques pour optimiser ses projets sur-mesure et maintenir sa compétitivité.",
+      "tags": [
+        "tailwind",
+        "css",
+        "performance"
+      ],
+      "fetchedAt": "2026-07-02T09:14:51.023Z"
+    },
     {
       "id": "683aa099788132d9",
       "title": "I Made TS Compiler Graph MCP: 10x Fewer Tokens in Claude Code",
@@ -73,6 +88,128 @@
         "tutorial"
       ],
       "fetchedAt": "2026-06-30T16:03:50.699Z"
+    },
+    {
+      "id": "e0406ed0d81e81b2",
+      "title": "Sculpting a Digital Athlete: Capturing Stefanos Tsitsipas Beyond the Court",
+      "url": "https://tympanus.net/codrops/2026/07/01/sculpting-a-digital-athlete-capturing-stefanos-tsitsipas-beyond-the-court/",
+      "source": "Codrops",
+      "date": "Wed, 01 Jul 2026 10:13:35 +0000",
+      "score": 8,
+      "reason": "Cas d'étude complet sur Three.js/WebGL avec optimisation de performance pour un projet créatif haute-fidélité ; parfait pour démystifier le pipeline 3D web et inspirer ses futurs projets Creative Development.",
+      "tags": [
+        "threejs",
+        "webgl",
+        "creative-development",
+        "performance"
+      ],
+      "fetchedAt": "2026-07-02T09:14:15.747Z"
+    },
+    {
+      "id": "0d9f89d1368c0a4f",
+      "title": "Inside Bisous: Designing an Editorial Experience for Cinematic CGI",
+      "url": "https://tympanus.net/codrops/2026/06/29/inside-bisous-designing-an-editorial-experience-for-cinematic-cgi/",
+      "source": "Codrops",
+      "date": "Mon, 29 Jun 2026 10:05:45 +0000",
+      "score": 8,
+      "reason": "Étude de cas concrète sur la composition éditoriale et le motion design au service du contenu visuel ; directement applicable à ses projets de Creative Development haute performance et à la maîtrise des transitions fluides.",
+      "tags": [
+        "creative-development",
+        "motion-design",
+        "performance",
+        "design-system"
+      ],
+      "fetchedAt": "2026-07-02T09:14:19.906Z"
+    },
+    {
+      "id": "a7c9bd04e54dbf4d",
+      "title": "Podium: Building a Website Where Running Becomes Storytelling",
+      "url": "https://tympanus.net/codrops/2026/06/23/podium-building-a-website-where-running-becomes-storytelling/",
+      "source": "Codrops",
+      "date": "Tue, 23 Jun 2026 15:59:01 +0000",
+      "score": 8,
+      "reason": "Étude de cas Creative Development exemplaire : maîtrise de la narration visuelle par le mouvement et le timing, directement applicable à ses projets sur-mesure haute performance. Excellent pour approfondir la philosophie du 'restraint' en animation web.",
+      "tags": [
+        "creative-development",
+        "gsap",
+        "animations",
+        "performance",
+        "storytelling"
+      ],
+      "fetchedAt": "2026-07-02T09:14:31.116Z"
+    },
+    {
+      "id": "3be6deb4adb3c2fc",
+      "title": "Tailwind CSS v4.0 Beta 1",
+      "url": "https://tailwindcss.com/blog/tailwindcss-v4-beta",
+      "source": "Tailwind CSS Blog",
+      "date": "Thu, 21 Nov 2024 18:30:00 GMT",
+      "score": 8,
+      "reason": "Évolution majeure de l'écosystème CSS pro de Matthias ; v4 apporte des changements architecturaux significatifs (engine Oxide, CSS variables natives) essentiels pour maintenir sa maîtrise de Tailwind et anticiper les migrations de projets.",
+      "tags": [
+        "tailwind",
+        "css"
+      ],
+      "fetchedAt": "2026-07-02T09:14:53.236Z"
+    },
+    {
+      "id": "e8edc46a5ad12032",
+      "title": "Tauri 2.0 Stable Release",
+      "url": "https://v2.tauri.app/blog/tauri-20/",
+      "source": "Tauri Blog",
+      "date": "Wed, 02 Oct 2024 00:00:00 GMT",
+      "score": 8,
+      "reason": "Tauri 2.0 stable marque une étape clé pour les applications desktop modernes en Rust/TypeScript. Essentiel pour Matthias qui explore les alternatives à Electron et cherche à diversifier ses compétences en desktop.",
+      "tags": [
+        "tauri",
+        "typescript",
+        "desktop"
+      ],
+      "fetchedAt": "2026-07-02T09:15:32.156Z"
+    },
+    {
+      "id": "a872fe5f4518d1aa",
+      "title": "Tauri 2.0 Release Candidate",
+      "url": "https://v2.tauri.app/blog/tauri-2-0-0-release-candidate/",
+      "source": "Tauri Blog",
+      "date": "Thu, 01 Aug 2024 00:00:00 GMT",
+      "score": 8,
+      "reason": "Tauri 2.0 RC est stratégique pour Matthias : alternative Electron mature et performante pour les apps desktop modernes, alignée avec sa montée en compétences et sa transition vers de nouveaux domaines.",
+      "tags": [
+        "tauri",
+        "desktop",
+        "javascript"
+      ],
+      "fetchedAt": "2026-07-02T09:15:34.354Z"
+    },
+    {
+      "id": "939c1378d7dde101",
+      "title": "Announcing the Tauri v2 Beta Release",
+      "url": "https://v2.tauri.app/blog/tauri-2-0-0-beta/",
+      "source": "Tauri Blog",
+      "date": "Fri, 02 Feb 2024 00:00:00 GMT",
+      "score": 8,
+      "reason": "Tauri v2 est une étape clé pour Matthias qui explore les applications desktop modernes comme alternative à Electron ; cette bêta marque une maturité croissante de l'écosystème et mérite une veille active.",
+      "tags": [
+        "tauri",
+        "desktop"
+      ],
+      "fetchedAt": "2026-07-02T09:15:44.494Z"
+    },
+    {
+      "id": "046fb994c101c13e",
+      "title": "Barriers from Links with ARIA",
+      "url": "https://adrianroselli.com/2026/01/barriers-from-links-with-aria.html",
+      "source": "Adrian Roselli",
+      "date": "Fri, 23 Jan 2026 01:53:22 +0000",
+      "score": 8,
+      "reason": "Article technique pointu sur les pièges d'accessibilité des liens avec ARIA—exactement le type de contenu qui affine l'expertise RGAA/WCAG de Matthias et l'aide à éviter les anti-patterns courants en production.",
+      "tags": [
+        "accessibilite",
+        "rgaa",
+        "javascript"
+      ],
+      "fetchedAt": "2026-07-02T09:16:47.366Z"
     },
     {
       "id": "b5d920c9ad10c380",
@@ -193,6 +330,268 @@
         "tooling"
       ],
       "fetchedAt": "2026-06-30T16:04:12.285Z"
+    },
+    {
+      "id": "1b0540abba0ff57b",
+      "title": "Using Scroll-Driven Animations for Opposing Scroll Directions",
+      "url": "https://css-tricks.com/scroll-driven-animations-opposing-scroll-directions/",
+      "source": "CSS-Tricks",
+      "date": "Mon, 22 Jun 2026 12:39:13 +0000",
+      "score": 7,
+      "reason": "Technique avancée de scroll-driven animations pertinente pour le Creative Development, mais manque de profondeur sur l'accessibilité (prefers-reduced-motion) et l'intégration dans une architecture moderne.",
+      "tags": [
+        "javascript",
+        "gsap",
+        "accessibilite"
+      ],
+      "fetchedAt": "2026-07-02T09:14:06.549Z"
+    },
+    {
+      "id": "e301353639b33a77",
+      "title": "A First Look at Scroll-Triggered Animations",
+      "url": "https://css-tricks.com/css-scroll-triggered-animations-first-look/",
+      "source": "CSS-Tricks",
+      "date": "Fri, 19 Jun 2026 13:03:17 +0000",
+      "score": 7,
+      "reason": "Article pertinent sur les animations déclenchées au scroll, sujet clé pour le Creative Development de Matthias, mais manque probablement de profondeur sur l'intégration avec GSAP ou les critères d'accessibilité (prefers-reduced-motion).",
+      "tags": [
+        "javascript",
+        "gsap",
+        "accessibilite"
+      ],
+      "fetchedAt": "2026-07-02T09:14:08.801Z"
+    },
+    {
+      "id": "714b7365913cf5d3",
+      "title": "Building Persistent Page Transitions with WebGPU and Vanilla JavaScript",
+      "url": "https://tympanus.net/codrops/2026/06/30/building-persistent-page-transitions-with-webgpu-and-vanilla-javascript/",
+      "source": "Codrops",
+      "date": "Tue, 30 Jun 2026 09:35:41 +0000",
+      "score": 7,
+      "reason": "Approche intéressante de transitions de page haute performance avec WebGPU, mais moins mature que Three.js pour Matthias. Utile pour explorer les alternatives GPU natives, bien que l'accessibilité et l'intégration avec des frameworks modernes ne soient probablement pas couverts.",
+      "tags": [
+        "webgl",
+        "javascript",
+        "gsap"
+      ],
+      "fetchedAt": "2026-07-02T09:14:17.840Z"
+    },
+    {
+      "id": "f71004474edcb5d4",
+      "title": "Engineering the Web Experience Behind Shopify’s Spring ’26 Edition: Everywhere",
+      "url": "https://tympanus.net/codrops/2026/06/26/engineering-the-web-experience-behind-shopifys-spring-26-edition-everywhere/",
+      "source": "Codrops",
+      "date": "Fri, 26 Jun 2026 09:34:40 +0000",
+      "score": 7,
+      "reason": "Architecture web et performance à grande échelle pertinentes pour sa montée en compétences sur les systèmes complexes ; insights sur le rendu et l'optimisation applicables à ses projets sur-mesure haute performance.",
+      "tags": [
+        "javascript",
+        "performance",
+        "architecture"
+      ],
+      "fetchedAt": "2026-07-02T09:14:23.276Z"
+    },
+    {
+      "id": "a9cec2d92a60b8a2",
+      "title": "Exploring 3D Image Rotations on Scroll",
+      "url": "https://tympanus.net/codrops/2026/06/18/exploring-3d-image-rotations-on-scroll/",
+      "source": "Codrops",
+      "date": "Thu, 18 Jun 2026 12:49:33 +0000",
+      "score": 7,
+      "reason": "Exploration créative des rotations 3D au scroll, directement applicable au Creative Development de Matthias, mais manque de profondeur technique sur Three.js ou WebGL pour un score plus élevé.",
+      "tags": [
+        "threejs",
+        "webgl",
+        "gsap",
+        "creative-development"
+      ],
+      "fetchedAt": "2026-07-02T09:14:37.959Z"
+    },
+    {
+      "id": "1cda9f1712a7a692",
+      "title": "Tailwind CSS v4.1: Text shadows, masks, and tons more",
+      "url": "https://tailwindcss.com/blog/tailwindcss-v4-1",
+      "source": "Tailwind CSS Blog",
+      "date": "Thu, 03 Apr 2025 20:00:00 GMT",
+      "score": 7,
+      "reason": "Nouvelles utilitaires Tailwind v4.1 pertinentes pour le workflow de Matthias, mais focus limité aux shadows et masks — moins critique que les évolutions architecturales ou les patterns avancés.",
+      "tags": [
+        "tailwind",
+        "css"
+      ],
+      "fetchedAt": "2026-07-02T09:14:46.337Z"
+    },
+    {
+      "id": "54f1a879908383f1",
+      "title": "Vercel and Shopify are rebuilding Hydrogen",
+      "url": "https://vercel.com/blog/vercel-and-shopify-are-rebuilding-hydrogen",
+      "source": "Vercel Blog",
+      "date": "2026-06-30T04:00:00.000Z",
+      "score": 7,
+      "reason": "Annonce stratégique pertinente pour Matthias : Hydrogen devient runtime-agnostic et open source, permettant Next.js/Nuxt/SvelteKit. Utile pour comprendre l'évolution de l'architecture headless Shopify et les patterns full-stack modernes, mais manque de détails techniques concrets pour un senior.",
+      "tags": [
+        "nextjs",
+        "typescript",
+        "api",
+        "javascript"
+      ],
+      "fetchedAt": "2026-07-02T09:15:23.833Z"
+    },
+    {
+      "id": "8252f2e939ddae17",
+      "title": "Vercel Services: Run full stack on Vercel",
+      "url": "https://vercel.com/blog/vercel-services-run-full-stack-on-vercel",
+      "source": "Vercel Blog",
+      "date": "2026-06-30T04:00:00.000Z",
+      "score": 7,
+      "reason": "Article stratégique sur l'architecture full-stack moderne avec Next.js et backends multiples (Python, Go, Rust) sur une seule plateforme. Pertinent pour sa transition vers des architectures plus complexes et sa montée en compétences sur les patterns de déploiement contemporains, mais manque de profondeur technique et de cas d'usage créatifs.",
+      "tags": [
+        "nextjs",
+        "typescript",
+        "architecture",
+        "api"
+      ],
+      "fetchedAt": "2026-07-02T09:15:26.100Z"
+    },
+    {
+      "id": "5cfdd93eb96896d7",
+      "title": "Announcing Tauri 1.7.0",
+      "url": "https://v2.tauri.app/blog/tauri-1-7/",
+      "source": "Tauri Blog",
+      "date": "Mon, 01 Jul 2024 00:00:00 GMT",
+      "score": 7,
+      "reason": "Mise à jour majeure de Tauri, framework clé pour les applications desktop modernes que Matthias explore pour diversifier ses compétences au-delà du web traditionnel.",
+      "tags": [
+        "tauri"
+      ],
+      "fetchedAt": "2026-07-02T09:15:36.238Z"
+    },
+    {
+      "id": "6b6e0e83771e2168",
+      "title": "Announcing Tauri 1.6.0",
+      "url": "https://v2.tauri.app/blog/tauri-1-6/",
+      "source": "Tauri Blog",
+      "date": "Mon, 19 Feb 2024 00:00:00 GMT",
+      "score": 7,
+      "reason": "Mise à jour majeure de Tauri, framework clé pour la transition de Matthias vers les applications desktop modernes. À suivre pour évaluer la maturité et les nouvelles capacités du framework.",
+      "tags": [
+        "tauri"
+      ],
+      "fetchedAt": "2026-07-02T09:15:42.569Z"
+    },
+    {
+      "id": "4e23e20261903ad3",
+      "title": "Strengthening Tauri: Our Partnership with CrabNebula",
+      "url": "https://v2.tauri.app/blog/partnership-crabnebula/",
+      "source": "Tauri Blog",
+      "date": "Mon, 13 Nov 2023 00:00:00 GMT",
+      "score": 7,
+      "reason": "Partenariat stratégique renforçant Tauri, framework clé pour les applications desktop modernes que Matthias explore pour diversifier son expertise au-delà du web traditionnel.",
+      "tags": [
+        "tauri",
+        "desktop"
+      ],
+      "fetchedAt": "2026-07-02T09:15:46.250Z"
+    },
+    {
+      "id": "8f1e020da51270d9",
+      "title": "#219 – Austin Ginder on How AI Is Exposing Hidden Threats in WordPress Plugin Updates",
+      "url": "https://wptavern.com/podcast/219-austin-ginder-on-how-ai-is-exposing-hidden-threats-in-wordpress-plugin-updates",
+      "source": "WP Tavern",
+      "date": "Wed, 03 Jun 2026 14:00:00 +0000",
+      "score": 7,
+      "reason": "Pertinent pour sa spécialité WordPress sur-mesure : comprendre les vecteurs d'attaque actuels des plugins et les stratégies de sécurisation des développements custom, notamment face aux acquisitions malveillantes de plugins légitimes.",
+      "tags": [
+        "wordpress",
+        "security"
+      ],
+      "fetchedAt": "2026-07-02T09:15:57.144Z"
+    },
+    {
+      "id": "d622adc36441132b",
+      "title": "Brèves d’audit #4 : indication visuelle pour l’état « survolé »",
+      "url": "https://access42.net/breves-audit-4-indication-visuelle-etat-survole/",
+      "source": "Access-Atoms (Access42)",
+      "date": "Thu, 02 Jul 2026 06:42:29 +0000",
+      "score": 7,
+      "reason": "Article technique d'audit RGAA pertinent pour affiner sa compréhension des critères d'accessibilité avancés (indication visuelle des états interactifs), directement applicable à ses audits et implémentations sur-mesure.",
+      "tags": [
+        "accessibilite",
+        "rgaa"
+      ],
+      "fetchedAt": "2026-07-02T09:16:09.883Z"
+    },
+    {
+      "id": "4966ba11deb1672e",
+      "title": "Tests utilisateurs pour l’accessibilité d’un site web Allianz : interview de Marjolaine Rayer, intervenante-pair",
+      "url": "https://access42.net/references-clients/tests-utilisateurs-accessibilite-marjolaine-rayer/",
+      "source": "Access-Atoms (Access42)",
+      "date": "Thu, 21 May 2026 06:42:30 +0000",
+      "score": 7,
+      "reason": "Cas d'étude concret sur l'intégration des tests utilisateurs dans une démarche RGAA/EN 301 549 ; utile pour enrichir sa compréhension des audits d'accessibilité en contexte entreprise, mais manque de détails techniques ou de patterns ARIA avancés.",
+      "tags": [
+        "accessibilite",
+        "rgaa"
+      ],
+      "fetchedAt": "2026-07-02T09:16:28.227Z"
+    },
+    {
+      "id": "6ebf4c6c088151f2",
+      "title": "WCAG3 Contrast as of April 2026",
+      "url": "https://adrianroselli.com/2026/04/wcag3-contrast-as-of-april-2026.html",
+      "source": "Adrian Roselli",
+      "date": "Fri, 10 Apr 2026 21:47:30 +0000",
+      "score": 7,
+      "reason": "Article de fond sur l'évolution des critères de contraste WCAG3, essentiel pour anticiper les changements réglementaires RGAA et adapter ses audits d'accessibilité futurs.",
+      "tags": [
+        "accessibilite",
+        "rgaa"
+      ],
+      "fetchedAt": "2026-07-02T09:16:36.317Z"
+    },
+    {
+      "id": "db35dcc5a826c703",
+      "title": "Accessibility Law of Headlines",
+      "url": "https://adrianroselli.com/2026/03/accessibility-law-of-headlines.html",
+      "source": "Adrian Roselli",
+      "date": "Thu, 26 Mar 2026 13:36:29 +0000",
+      "score": 7,
+      "reason": "Perspective critique utile sur les affirmations d'accessibilité dans l'industrie ; aide à affiner son jugement d'expert RGAA et à identifier les pièges courants des audits superficiels.",
+      "tags": [
+        "accessibilite",
+        "rgaa"
+      ],
+      "fetchedAt": "2026-07-02T09:16:38.178Z"
+    },
+    {
+      "id": "c33d09e8ca87a055",
+      "title": "Honoring Mobile OS Text Size",
+      "url": "https://adrianroselli.com/2026/02/honoring-mobile-os-text-size.html",
+      "source": "Adrian Roselli",
+      "date": "Fri, 06 Feb 2026 20:35:57 +0000",
+      "score": 7,
+      "reason": "Article pertinent sur l'accessibilité mobile et le respect des préférences utilisateur système (text scaling), un sujet clé pour les critères RGAA/WCAG que Matthias maîtrise déjà mais qui mérite une veille active sur les évolutions de support navigateur.",
+      "tags": [
+        "accessibilite",
+        "rgaa",
+        "mobile"
+      ],
+      "fetchedAt": "2026-07-02T09:16:42.569Z"
+    },
+    {
+      "id": "5ed127fc63835cd0",
+      "title": "Live Region Support",
+      "url": "https://adrianroselli.com/2026/01/live-region-support.html",
+      "source": "Adrian Roselli",
+      "date": "Wed, 14 Jan 2026 19:57:57 +0000",
+      "score": 7,
+      "reason": "Article technique sur l'implémentation des live regions pour les lecteurs d'écran — utile pour approfondir les patterns ARIA avancés et les critères RGAA, bien que le contenu semble incomplet dans le résumé fourni.",
+      "tags": [
+        "accessibilite",
+        "rgaa",
+        "aria"
+      ],
+      "fetchedAt": "2026-07-02T09:16:49.446Z"
     },
     {
       "id": "64fbb546094be66a",
