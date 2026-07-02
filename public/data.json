@@ -1,6 +1,23 @@
 {
-  "lastUpdate": "2026-07-02T09:17:14.539Z",
+  "lastUpdate": "2026-07-02T19:19:11.600Z",
   "articles": [
+    {
+      "id": "f3b9f942e2baa1da",
+      "title": "GQ & Audemars Piguet: The Extraordinary Lab",
+      "url": "https://www.awwwards.com/gq-audemars-piguet-the-extraordinary-lab.html",
+      "source": "Awwwards Case Studies",
+      "date": "Wed, 03 Jun 2026 09:33:00 +0000",
+      "image": "https://www.awwwards.com/awards/images/2026/06/gq-cs-thumb.jpg",
+      "score": 9,
+      "reason": "Cas d'étude de Creative Development haute performance avec expérience cinématique en temps réel ; parfait pour explorer l'intégration de Three.js/WebGL dans un contexte commercial de prestige et comprendre les enjeux de performance sur des animations complexes.",
+      "tags": [
+        "threejs",
+        "webgl",
+        "creative-development",
+        "performance"
+      ],
+      "fetchedAt": "2026-07-02T19:17:14.147Z"
+    },
     {
       "id": "e246a5d35211d204",
       "title": "Tailwind CSS v4.0",
@@ -88,6 +105,42 @@
         "tutorial"
       ],
       "fetchedAt": "2026-06-30T16:03:50.699Z"
+    },
+    {
+      "id": "12eb4dfeee026b0b",
+      "title": "The New Obys",
+      "url": "https://www.awwwards.com/the-new-obys.html",
+      "source": "Awwwards Case Studies",
+      "date": "Wed, 01 Jul 2026 09:17:00 +0000",
+      "image": "https://www.awwwards.com/awards/images/2026/07/obys-cs-thumb.jpg",
+      "score": 8,
+      "reason": "Étude de cas complète d'une refonte créative haute performance : animations fluides, transitions de page, et optimisation UX pour un studio de Creative Development. Parfait pour inspirer l'approche sur-mesure de Matthias et explorer les patterns modernes d'architecture web.",
+      "tags": [
+        "creative-development",
+        "animations",
+        "nextjs",
+        "performance",
+        "ux"
+      ],
+      "fetchedAt": "2026-07-02T19:17:11.995Z"
+    },
+    {
+      "id": "79f69c391492b3ab",
+      "title": "Not a Portfolio. A Presence.",
+      "url": "https://www.awwwards.com/not-a-portfolio-a-presence.html",
+      "source": "Awwwards Case Studies",
+      "date": "Wed, 22 Apr 2026 10:21:00 +0000",
+      "image": "https://www.awwwards.com/awards/images/2026/04/jb-cs-thumb.jpg",
+      "score": 8,
+      "reason": "Étude de cas Creative Development pure : traduction d'une vision artistique en expérience web fluide, directement alignée avec l'expertise de Matthias en sur-mesure haute performance et transitions narratives.",
+      "tags": [
+        "creative-development",
+        "gsap",
+        "barbajs",
+        "performance",
+        "ux"
+      ],
+      "fetchedAt": "2026-07-02T19:17:20.074Z"
     },
     {
       "id": "e0406ed0d81e81b2",
