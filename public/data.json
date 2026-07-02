@@ -1,5 +1,5 @@
 {
-  "lastUpdate": "2026-07-01T19:46:47.508Z",
+  "lastUpdate": "2026-07-02T08:49:02.185Z",
   "articles": [
     {
       "id": "683aa099788132d9",
@@ -73,6 +73,41 @@
         "tutorial"
       ],
       "fetchedAt": "2026-06-30T16:03:50.699Z"
+    },
+    {
+      "id": "b5d920c9ad10c380",
+      "title": "I'm building my own Claude-based chatbot, powered by MongoDB",
+      "url": "https://dev.to/mongodb_guests/im-building-my-own-claude-based-chatbot-powered-by-mongodb-42j8",
+      "source": "Dev.to",
+      "date": "Thu, 02 Jul 2026 08:39:00 +0000",
+      "score": 8,
+      "reason": "Tutoriel pratique et détaillé sur la construction d'une application AI avec MongoDB, Claude et AWS Bedrock. Excellent contenu éducatif avec code public, architecture bien pensée et approche pédagogique claire. Très pertinent pour les développeurs intéressés par l'IA et les bases de données modernes.",
+      "tags": [
+        "nodejs",
+        "database",
+        "api",
+        "tutorial",
+        "tooling",
+        "security"
+      ],
+      "fetchedAt": "2026-07-02T08:47:48.045Z"
+    },
+    {
+      "id": "2593207d2aa3d785",
+      "title": "vike-vue-content: A Zero-Boilerplate Docs Framework Built on Vike + Vue",
+      "url": "https://dev.to/eralchen/vike-vue-content-a-zero-boilerplate-docs-framework-built-on-vike-vue-2e96",
+      "source": "Dev.to",
+      "date": "Thu, 02 Jul 2026 08:33:34 +0000",
+      "score": 8,
+      "reason": "Article présentant un nouvel outil pratique et innovant pour la documentation Vue/Vike avec démonstration concrète, code réutilisable et comparaison claire avec les alternatives existantes.",
+      "tags": [
+        "vue",
+        "vike",
+        "tooling",
+        "documentation",
+        "javascript"
+      ],
+      "fetchedAt": "2026-07-02T08:48:04.733Z"
     },
     {
       "id": "52ea2ceabb3171bb",
