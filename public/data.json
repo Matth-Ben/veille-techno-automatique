@@ -1,5 +1,5 @@
 {
-  "lastUpdate": "2026-07-02T19:19:11.600Z",
+  "lastUpdate": "2026-07-03T08:58:08.286Z",
   "articles": [
     {
       "id": "f3b9f942e2baa1da",
@@ -383,6 +383,39 @@
         "tooling"
       ],
       "fetchedAt": "2026-06-30T16:04:12.285Z"
+    },
+    {
+      "id": "823d406a6642c851",
+      "title": "Don't take the model's word for it",
+      "url": "https://dev.to/dang-w/dont-take-the-models-word-for-it-1lon",
+      "source": "Dev.to",
+      "date": "Fri, 03 Jul 2026 08:26:29 +0000",
+      "image": "https://media2.dev.to/dynamic/image/width=800%2Cheight=%2Cfit=scale-down%2Cgravity=auto%2Cformat=auto/https%3A%2F%2Fdev-to-uploads.s3.us-east-2.amazonaws.com%2Fuploads%2Farticles%2F7uzwelewduatonsaphbd.gif",
+      "score": 7,
+      "reason": "Article technique solide sur l'intégration responsable des LLM dans des systèmes réels (validation à la frontière, isolation des conteneurs, vérification adversariale). Pertinent pour sa montée en compétences sur l'architecture moderne et la sécurité des agents IA, mais sans lien direct avec sa spécialité (animations, accessibilité, creative dev).",
+      "tags": [
+        "javascript",
+        "nextjs",
+        "security",
+        "api"
+      ],
+      "fetchedAt": "2026-07-03T08:55:11.286Z"
+    },
+    {
+      "id": "4971de89c4b400c7",
+      "title": "From Years of Client Work to a Next.js + Sanity Starter Kit",
+      "url": "https://tympanus.net/codrops/2026/07/02/from-years-of-client-work-to-a-next-js-sanity-starter-kit/",
+      "source": "Codrops",
+      "date": "Thu, 02 Jul 2026 10:21:00 +0000",
+      "image": null,
+      "score": 7,
+      "reason": "Retour d'expérience concret sur l'architecture headless (Next.js + Sanity) applicable aux projets sur-mesure de Matthias ; utile pour structurer ses futurs workflows, mais manque de profondeur technique avancée ou de cas d'usage créatif.",
+      "tags": [
+        "nextjs",
+        "api",
+        "architecture"
+      ],
+      "fetchedAt": "2026-07-03T08:55:42.052Z"
     },
     {
       "id": "1b0540abba0ff57b",
