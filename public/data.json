@@ -1,6 +1,23 @@
 {
-  "lastUpdate": "2026-07-07T09:35:40.196Z",
+  "lastUpdate": "2026-07-07T19:50:21.416Z",
   "articles": [
+    {
+      "id": "218be9631289ae62",
+      "title": "Building a Scroll-Driven 3D Gallery Using a Blender Camera Path with Three.js and GSAP",
+      "url": "https://tympanus.net/codrops/2026/07/07/building-a-scroll-driven-3d-gallery-using-a-blender-camera-path-with-three-js-and-gsap/",
+      "source": "Codrops",
+      "date": "Tue, 07 Jul 2026 13:37:56 +0000",
+      "image": null,
+      "score": 9,
+      "reason": "Combine Three.js, GSAP et une approche créative avancée (caméra Blender) — exactement le type de contenu qui aide Matthias à franchir le pas vers WebGL tout en restant dans son univers d'animations fluides et de Creative Development.",
+      "tags": [
+        "threejs",
+        "gsap",
+        "webgl",
+        "creative-development"
+      ],
+      "fetchedAt": "2026-07-07T19:48:02.663Z"
+    },
     {
       "id": "f3b9f942e2baa1da",
       "title": "GQ & Audemars Piguet: The Extraordinary Lab",
