@@ -1,5 +1,5 @@
 {
-  "lastUpdate": "2026-07-08T08:19:57.478Z",
+  "lastUpdate": "2026-07-08T19:19:25.378Z",
   "articles": [
     {
       "id": "eb17e89a78f034f8",
@@ -138,6 +138,24 @@
         "tutorial"
       ],
       "fetchedAt": "2026-06-30T16:03:50.699Z"
+    },
+    {
+      "id": "4e080283979277ff",
+      "title": "Ten Years Away: Designing an Interactive Comic for Studio375’s Tenth Anniversary",
+      "url": "https://tympanus.net/codrops/2026/07/08/ten-years-away-designing-an-interactive-comic-for-studio375s-tenth-anniversary/",
+      "source": "Codrops",
+      "date": "Wed, 08 Jul 2026 10:32:42 +0000",
+      "image": null,
+      "score": 8,
+      "reason": "Cas d'étude concret de Creative Development avancé : scroll-driven interactions couplées à WebGL pour une expérience narrative immersive, directement applicable à ses projets sur-mesure haute performance.",
+      "tags": [
+        "webgl",
+        "threejs",
+        "gsap",
+        "javascript",
+        "creative-development"
+      ],
+      "fetchedAt": "2026-07-08T19:17:03.874Z"
     },
     {
       "id": "12eb4dfeee026b0b",
