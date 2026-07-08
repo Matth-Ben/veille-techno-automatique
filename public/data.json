@@ -1,6 +1,22 @@
 {
-  "lastUpdate": "2026-07-07T19:50:21.416Z",
+  "lastUpdate": "2026-07-08T08:19:57.478Z",
   "articles": [
+    {
+      "id": "eb17e89a78f034f8",
+      "title": "My Next.js 16 Optimistic UI Looked Perfect. Then Someone Clicked It Five Times Fast",
+      "url": "https://dev.to/shubhradev/my-nextjs-16-optimistic-ui-looked-perfect-then-someone-clicked-it-five-times-fast-b2c",
+      "source": "Dev.to",
+      "date": "Wed, 08 Jul 2026 07:43:35 +0000",
+      "image": "https://media2.dev.to/dynamic/image/width=800%2Cheight=%2Cfit=scale-down%2Cgravity=auto%2Cformat=auto/https%3A%2F%2Fdev-to-uploads.s3.us-east-2.amazonaws.com%2Fuploads%2Farticles%2Fx5rimzq7q866kvgphp6f.png",
+      "score": 9,
+      "reason": "Article technique pointu sur les pièges réels de useOptimistic en Next.js 16 : gestion des race conditions, rollback d'optimistic updates, et les trois stratégies de revalidation (revalidatePath, revalidateTag, updateTag). Essentiel pour maîtriser les Server Actions et éviter les bugs subtils en production.",
+      "tags": [
+        "nextjs",
+        "typescript",
+        "javascript"
+      ],
+      "fetchedAt": "2026-07-08T08:16:45.790Z"
+    },
     {
       "id": "218be9631289ae62",
       "title": "Building a Scroll-Driven 3D Gallery Using a Blender Camera Path with Three.js and GSAP",
