@@ -1,6 +1,23 @@
 {
-  "lastUpdate": "2026-07-10T09:28:46.204Z",
+  "lastUpdate": "2026-07-10T19:23:23.484Z",
   "articles": [
+    {
+      "id": "1688879ea8534070",
+      "title": "The Sleepers: Creating an Atmospheric WebGL Experience with Lightweight Techniques",
+      "url": "https://tympanus.net/codrops/2026/07/10/the-sleepers-creating-an-atmospheric-webgl-experience-with-lightweight-techniques/",
+      "source": "Codrops",
+      "date": "Fri, 10 Jul 2026 13:31:58 +0000",
+      "image": null,
+      "score": 9,
+      "reason": "Démystification concrète de WebGL/Three.js avec focus sur les techniques créatives (transitions fluides, fog, mesh outlines) — exactement ce qui manque à Matthias pour franchir le pas vers le Creative Development avancé.",
+      "tags": [
+        "threejs",
+        "webgl",
+        "creative-development",
+        "animations"
+      ],
+      "fetchedAt": "2026-07-10T19:21:12.608Z"
+    },
     {
       "id": "eb17e89a78f034f8",
       "title": "My Next.js 16 Optimistic UI Looked Perfect. Then Someone Clicked It Five Times Fast",
@@ -450,6 +467,23 @@
         "tooling"
       ],
       "fetchedAt": "2026-06-30T16:04:12.285Z"
+    },
+    {
+      "id": "cbcd3372c16a4b22",
+      "title": "Reshaping Telha Clarke’s Digital Home",
+      "url": "https://www.awwwards.com/reshaping-telha-clarkes-digital-home.html",
+      "source": "Awwwards Case Studies",
+      "date": "Fri, 10 Jul 2026 08:54:00 +0000",
+      "image": "https://www.awwwards.com/awards/images/2026/07/6964b60076436116585408.jpg",
+      "score": 7,
+      "reason": "Cas d'étude de Creative Development avec focus sur animations fluides, transitions de page et performance visuelle — directement applicable à sa spécialité du sur-mesure haute performance, même si le contexte architectural n'est pas son domaine métier.",
+      "tags": [
+        "creative-development",
+        "animations",
+        "performance",
+        "design-web"
+      ],
+      "fetchedAt": "2026-07-10T19:21:16.713Z"
     },
     {
       "id": "e49f0bd6505499e9",
