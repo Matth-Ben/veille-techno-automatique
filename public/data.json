@@ -1,6 +1,23 @@
 {
-  "lastUpdate": "2026-07-11T07:49:26.850Z",
+  "lastUpdate": "2026-07-11T18:55:57.680Z",
   "articles": [
+    {
+      "id": "d789d4db00128cd0",
+      "title": "THE STAND: Keep the Chant Alive!",
+      "url": "https://dev.to/asynchronope/the-stand-keep-the-chant-alive-25hb",
+      "source": "Dev.to",
+      "date": "Sat, 11 Jul 2026 18:07:47 +0000",
+      "image": "https://media2.dev.to/dynamic/image/width=800%2Cheight=%2Cfit=scale-down%2Cgravity=auto%2Cformat=auto/https%3A%2F%2Fdev-to-uploads.s3.us-east-2.amazonaws.com%2Fuploads%2Farticles%2Fo6dp3lidvmpmweyje4pc.png",
+      "score": 9,
+      "reason": "Étude de cas Three.js/WebGL appliquée à un projet créatif complet : architecture TypeScript, gestion d'état complexe, Web Audio synchronisé, optimisation canvas (81 draw calls), et intégration intelligente d'IA générative. Parfait pour démystifier Three.js en contexte réel et inspirer ses propres projets Creative Development.",
+      "tags": [
+        "threejs",
+        "webgl",
+        "typescript",
+        "javascript"
+      ],
+      "fetchedAt": "2026-07-11T18:53:18.392Z"
+    },
     {
       "id": "7a5d123f10bce16d",
       "title": "The Accessibility Audit That Slapped Me Awake",
@@ -485,6 +502,37 @@
         "tooling"
       ],
       "fetchedAt": "2026-06-30T16:04:12.285Z"
+    },
+    {
+      "id": "d84501c72734b761",
+      "title": "I Built a Browser From Scratch, and It Finally Renders the World's First Website Like Chrome Does",
+      "url": "https://dev.to/nitinkumaryadav1307/i-built-a-browser-from-scratch-and-it-finally-renders-the-worlds-first-website-like-chrome-does-jef",
+      "source": "Dev.to",
+      "date": "Sat, 11 Jul 2026 18:35:11 +0000",
+      "image": null,
+      "score": 7,
+      "reason": "Retour d'expérience fascinant sur la construction d'un navigateur en Electron/Node.js from scratch ; pertinent pour sa transition vers des projets plus ambitieux et sa compréhension des couches bas-niveau du web, mais peu directement applicable à sa stack actuelle (Next.js, WordPress, animations).",
+      "tags": [
+        "electron",
+        "javascript",
+        "webgl"
+      ],
+      "fetchedAt": "2026-07-11T18:53:09.903Z"
+    },
+    {
+      "id": "adf45e0b9553b357",
+      "title": "The Key That Unlocks Everything: Prototype Pollution in JavaScript",
+      "url": "https://dev.to/khuepm/the-key-that-unlocks-everything-prototype-pollution-in-javascript-307o",
+      "source": "Dev.to",
+      "date": "Sat, 11 Jul 2026 18:26:13 +0000",
+      "image": null,
+      "score": 7,
+      "reason": "Article de sécurité fondamental pour un senior : comprendre la Prototype Pollution est critique pour auditer et sécuriser les APIs et les dépendances npm, surtout dans un contexte de développement sur-mesure où la confiance du code est essentielle.",
+      "tags": [
+        "javascript",
+        "security"
+      ],
+      "fetchedAt": "2026-07-11T18:53:11.865Z"
     },
     {
       "id": "cbcd3372c16a4b22",
