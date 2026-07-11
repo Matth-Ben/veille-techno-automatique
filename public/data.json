@@ -1,6 +1,24 @@
 {
-  "lastUpdate": "2026-07-10T19:23:23.484Z",
+  "lastUpdate": "2026-07-11T07:49:26.850Z",
   "articles": [
+    {
+      "id": "7a5d123f10bce16d",
+      "title": "The Accessibility Audit That Slapped Me Awake",
+      "url": "https://dev.to/richardlemon/the-accessibility-audit-that-slapped-me-awake-2e1o",
+      "source": "Dev.to",
+      "date": "Sat, 11 Jul 2026 07:16:17 +0000",
+      "image": null,
+      "score": 9,
+      "reason": "Retour d'expérience brutal et concret sur les failles d'accessibilité RGAA/WCAG que même un dev senior commet—focus traps, DOM order vs CSS reordering, contrast sur les états, divs role=button, labels cachés, prefers-reduced-motion ignoré, erreurs sans contexte. Exactement ce qui manque à Matthias pour passer de 'je connais les bases' à une pratique rigoureuse et systématique.",
+      "tags": [
+        "accessibilite",
+        "rgaa",
+        "keyboard-navigation",
+        "screen-reader",
+        "wcag"
+      ],
+      "fetchedAt": "2026-07-11T07:46:32.767Z"
+    },
     {
       "id": "1688879ea8534070",
       "title": "The Sleepers: Creating an Atmospheric WebGL Experience with Lightweight Techniques",
