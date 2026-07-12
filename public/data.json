@@ -1,6 +1,24 @@
 {
-  "lastUpdate": "2026-07-11T18:55:57.680Z",
+  "lastUpdate": "2026-07-12T08:10:50.669Z",
   "articles": [
+    {
+      "id": "ee9719d25f8d0377",
+      "title": "The WCAG AA Checklist Every Angular Component Should Pass Before You Ship",
+      "url": "https://dev.to/duncanfaulkner/the-wcag-aa-checklist-every-angular-component-should-pass-before-you-ship-3pdn",
+      "source": "Dev.to",
+      "date": "Sun, 12 Jul 2026 08:00:00 +0000",
+      "image": null,
+      "score": 9,
+      "reason": "Checklist WCAG AA ultra-pragmatique et Angular-spécifique qui démystifie l'accessibilité au-delà des outils automatisés (30-40% seulement) ; parfait pour ancrer les bonnes pratiques RGAA dans une stack moderne et éviter les pièges invisibles aux audits.",
+      "tags": [
+        "accessibilite",
+        "rgaa",
+        "angular",
+        "typescript",
+        "aria"
+      ],
+      "fetchedAt": "2026-07-12T08:07:48.008Z"
+    },
     {
       "id": "d789d4db00128cd0",
       "title": "THE STAND: Keep the Chant Alive!",
