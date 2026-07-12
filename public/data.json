@@ -1,6 +1,23 @@
 {
-  "lastUpdate": "2026-07-12T08:10:50.669Z",
+  "lastUpdate": "2026-07-12T19:00:50.199Z",
   "articles": [
+    {
+      "id": "574995880092d915",
+      "title": "Building a Three.js 3D Product Configurator for WooCommerce: 4 Things I Didn't Expect",
+      "url": "https://dev.to/noorealam/building-a-threejs-3d-product-configurator-for-woocommerce-4-things-i-didnt-expect-il2",
+      "source": "Dev.to",
+      "date": "Sun, 12 Jul 2026 18:47:35 +0000",
+      "image": null,
+      "score": 9,
+      "reason": "Cas d'usage concret de Three.js appliqué à un projet WordPress réel (WooCommerce) : démystifie les pièges pratiques (lighting, zoom, WASM, intégration native) que les tutoriels ne couvrent jamais. Parfait pour franchir le pas Three.js en production.",
+      "tags": [
+        "threejs",
+        "webgl",
+        "wordpress",
+        "javascript"
+      ],
+      "fetchedAt": "2026-07-12T18:57:50.517Z"
+    },
     {
       "id": "ee9719d25f8d0377",
       "title": "The WCAG AA Checklist Every Angular Component Should Pass Before You Ship",
