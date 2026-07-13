@@ -1,5 +1,5 @@
 {
-  "lastUpdate": "2026-07-13T09:00:32.197Z",
+  "lastUpdate": "2026-07-13T19:20:31.639Z",
   "articles": [
     {
       "id": "574995880092d915",
@@ -225,6 +225,24 @@
         "tutorial"
       ],
       "fetchedAt": "2026-06-30T16:03:50.699Z"
+    },
+    {
+      "id": "71d4fb230b0d13fb",
+      "title": "Where Stories Become Interactive Worlds: How makemepulse Brings Ideas to Life Across Web, XR, and Beyond",
+      "url": "https://tympanus.net/codrops/2026/07/13/where-stories-become-interactive-worlds-how-makemepulse-brings-ideas-to-life-across-web-xr-and-beyond/",
+      "source": "Codrops",
+      "date": "Mon, 13 Jul 2026 11:43:42 +0000",
+      "image": null,
+      "score": 8,
+      "reason": "Étude de cas d'une agence créative pionnière en interactive storytelling et immersive media (XR/WebGL) — directement alignée avec la trajectoire Creative Development de Matthias et sa montée en compétences sur Three.js/WebGL pour des projets haute performance.",
+      "tags": [
+        "creative-development",
+        "webgl",
+        "threejs",
+        "interactive",
+        "xr"
+      ],
+      "fetchedAt": "2026-07-13T19:18:18.678Z"
     },
     {
       "id": "12671873c057bb49",
