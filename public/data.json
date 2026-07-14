@@ -1,5 +1,5 @@
 {
-  "lastUpdate": "2026-07-14T07:56:20.116Z",
+  "lastUpdate": "2026-07-14T19:14:06.449Z",
   "articles": [
     {
       "id": "574995880092d915",
@@ -571,6 +571,40 @@
         "tooling"
       ],
       "fetchedAt": "2026-06-30T16:04:12.285Z"
+    },
+    {
+      "id": "2b43cfe57656a872",
+      "title": "Production-Ready AI Agents in Node.js: Iteration Caps and Tracing",
+      "url": "https://dev.to/swapnali_dashrath_8827f08/production-ready-ai-agents-in-nodejs-iteration-caps-and-tracing-3nh1",
+      "source": "Dev.to",
+      "date": "Tue, 14 Jul 2026 18:57:39 +0000",
+      "image": null,
+      "score": 7,
+      "reason": "Article pratique et production-ready sur l'intégration des LLM en Node.js avec patterns solides (iteration caps, tracing OpenTelemetry). Utile pour enrichir sa stack backend et comprendre comment instrumenter les agents IA, mais pas directement lié à ses domaines de force (Creative Dev, accessibilité, architecture frontend).",
+      "tags": [
+        "javascript",
+        "typescript",
+        "api",
+        "security"
+      ],
+      "fetchedAt": "2026-07-14T19:10:23.725Z"
+    },
+    {
+      "id": "effb6ffbee54453a",
+      "title": "Votre Agent IA est crédule : Pourquoi le \"Prompt Engineering\" ne vous protègera pas en production",
+      "url": "https://dev.to/quentin_merle/votre-agent-ia-est-credule-pourquoi-le-prompt-engineering-ne-vous-protegera-pas-en-production-2kcp",
+      "source": "Dev.to",
+      "date": "Tue, 14 Jul 2026 18:46:25 +0000",
+      "image": null,
+      "score": 7,
+      "reason": "Article technique solide sur la sécurité des agents IA en production avec des patterns concrets (Human-in-the-Loop, Zod strict typing). Pertinent pour sa transition vers l'IA engineering, mais manque de lien direct avec son expertise en Creative Development et accessibilité.",
+      "tags": [
+        "javascript",
+        "typescript",
+        "security",
+        "api"
+      ],
+      "fetchedAt": "2026-07-14T19:10:34.170Z"
     },
     {
       "id": "d84501c72734b761",
