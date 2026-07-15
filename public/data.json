@@ -1,6 +1,24 @@
 {
-  "lastUpdate": "2026-07-15T08:00:38.823Z",
+  "lastUpdate": "2026-07-15T19:05:17.685Z",
   "articles": [
+    {
+      "id": "59e202064d03c69b",
+      "title": "The Architecture Behind Trionn: Coordinating GSAP, Three.js, Lenis, and Web Audio",
+      "url": "https://tympanus.net/codrops/2026/07/15/the-architecture-behind-trionn-coordinating-gsap-three-js-lenis-and-web-audio/",
+      "source": "Codrops",
+      "date": "Wed, 15 Jul 2026 14:33:53 +0000",
+      "image": null,
+      "score": 9,
+      "reason": "Étude de cas concrète sur l'orchestration de GSAP, Three.js et Lenis — exactement ce qui manque à Matthias pour franchir le pas sur les animations avancées et WebGL en production, avec focus sur la performance et la coordination des couches.",
+      "tags": [
+        "gsap",
+        "threejs",
+        "webgl",
+        "javascript",
+        "performance"
+      ],
+      "fetchedAt": "2026-07-15T19:03:06.813Z"
+    },
     {
       "id": "574995880092d915",
       "title": "Building a Three.js 3D Product Configurator for WooCommerce: 4 Things I Didn't Expect",
