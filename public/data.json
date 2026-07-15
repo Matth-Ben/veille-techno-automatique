@@ -1,5 +1,5 @@
 {
-  "lastUpdate": "2026-07-14T19:14:06.449Z",
+  "lastUpdate": "2026-07-15T08:00:38.823Z",
   "articles": [
     {
       "id": "574995880092d915",
@@ -571,6 +571,22 @@
         "tooling"
       ],
       "fetchedAt": "2026-06-30T16:04:12.285Z"
+    },
+    {
+      "id": "54834ec69576dcd6",
+      "title": "Part 1: Why I Rarely Use useEffect Anymore (and what I use instead)",
+      "url": "https://dev.to/alejandrodeveloper/why-i-rarely-use-useeffect-anymore-and-what-i-use-instead-ep1-423f",
+      "source": "Dev.to",
+      "date": "Wed, 15 Jul 2026 07:26:46 +0000",
+      "image": null,
+      "score": 7,
+      "reason": "Article solide sur les patterns React modernes et l'optimisation des composants ; utile pour affiner l'architecture et réduire les anti-patterns, mais sans lien direct avec ses spécialités (animations, accessibilité, Creative Dev).",
+      "tags": [
+        "javascript",
+        "typescript",
+        "nextjs"
+      ],
+      "fetchedAt": "2026-07-15T07:57:39.786Z"
     },
     {
       "id": "2b43cfe57656a872",
