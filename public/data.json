@@ -1,5 +1,5 @@
 {
-  "lastUpdate": "2026-07-16T08:06:51.602Z",
+  "lastUpdate": "2026-07-16T19:04:57.209Z",
   "articles": [
     {
       "id": "59e202064d03c69b",
@@ -589,6 +589,22 @@
         "tooling"
       ],
       "fetchedAt": "2026-06-30T16:04:12.285Z"
+    },
+    {
+      "id": "c7dee1796d6815b7",
+      "title": "Next.js App Router, there are always things that get forgotten. Let's anticipate its errors!",
+      "url": "https://dev.to/javapixastudio/nextjs-app-router-there-are-always-things-that-get-forgotten-lets-anticipate-its-errors-4cng",
+      "source": "Dev.to",
+      "date": "Thu, 16 Jul 2026 18:43:17 +0000",
+      "image": null,
+      "score": 7,
+      "reason": "Article technique solide sur les pièges courants du Next.js App Router (Server/Client Components, data fetching, caching, error boundaries). Utile pour consolider l'architecture moderne, mais manque de profondeur sur les cas avancés ou les patterns créatifs que Matthias pourrait explorer.",
+      "tags": [
+        "nextjs",
+        "typescript",
+        "javascript"
+      ],
+      "fetchedAt": "2026-07-16T19:01:54.222Z"
     },
     {
       "id": "76b47853364e1a52",
