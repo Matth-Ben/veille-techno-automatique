@@ -1,5 +1,5 @@
 {
-  "lastUpdate": "2026-07-17T19:02:30.275Z",
+  "lastUpdate": "2026-07-18T07:43:06.943Z",
   "articles": [
     {
       "id": "0561202238083df7",
@@ -260,6 +260,24 @@
         "tutorial"
       ],
       "fetchedAt": "2026-06-30T16:03:50.699Z"
+    },
+    {
+      "id": "df82d4bf992f7b0a",
+      "title": "View Transitions in Next.js: How I Added Animated Page Changes Without a Library",
+      "url": "https://dev.to/ahmed_mahmoud360/view-transitions-in-nextjs-how-i-added-animated-page-changes-without-a-library-2a1a",
+      "source": "Dev.to",
+      "date": "Sat, 18 Jul 2026 07:23:35 +0000",
+      "image": null,
+      "score": 8,
+      "reason": "Article technique pointu sur l'intégration native de View Transitions API dans Next.js App Router, sans dépendance externe — parfait pour enrichir son expertise en animations fluides et performantes tout en respectant prefers-reduced-motion (critère RGAA clé).",
+      "tags": [
+        "nextjs",
+        "javascript",
+        "gsap",
+        "accessibilite",
+        "rgaa"
+      ],
+      "fetchedAt": "2026-07-18T07:40:30.547Z"
     },
     {
       "id": "f3ace97787f5ee2c",
