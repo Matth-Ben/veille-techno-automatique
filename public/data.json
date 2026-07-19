@@ -1,6 +1,23 @@
 {
-  "lastUpdate": "2026-07-19T08:10:30.667Z",
+  "lastUpdate": "2026-07-19T19:00:47.145Z",
   "articles": [
+    {
+      "id": "493ca2c5ea0ebcf0",
+      "title": "The BFF Pattern: Your API Token Has No Business in the Browser",
+      "url": "https://dev.to/lepresk/the-bff-pattern-your-api-token-has-no-business-in-the-browser-40mj",
+      "source": "Dev.to",
+      "date": "Sun, 19 Jul 2026 18:24:40 +0000",
+      "image": null,
+      "score": 9,
+      "reason": "Article fondamental sur l'architecture sécurisée Next.js App Router : démystifie le pattern BFF, expose les failles XSS/CORS liées aux tokens en client, et propose une implémentation concrète et typée. Essentiel pour sa montée en compétences sur l'architecture web moderne et la sécurité des APIs.",
+      "tags": [
+        "nextjs",
+        "security",
+        "api",
+        "typescript"
+      ],
+      "fetchedAt": "2026-07-19T18:58:16.267Z"
+    },
     {
       "id": "0561202238083df7",
       "title": "ZERO: The Engineering Behind a Defiant Interactive Narrative",
