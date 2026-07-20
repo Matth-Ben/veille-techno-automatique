@@ -1,5 +1,5 @@
 {
-  "lastUpdate": "2026-07-20T08:50:38.289Z",
+  "lastUpdate": "2026-07-20T19:40:28.170Z",
   "articles": [
     {
       "id": "493ca2c5ea0ebcf0",
@@ -277,6 +277,40 @@
         "tutorial"
       ],
       "fetchedAt": "2026-06-30T16:03:50.699Z"
+    },
+    {
+      "id": "d7f96948d6717366",
+      "title": "A Smaller Foundation for JavaScript Reactivity",
+      "url": "https://dev.to/doeixd/a-smaller-foundation-for-javascript-reactivity-2fad",
+      "source": "Dev.to",
+      "date": "Mon, 20 Jul 2026 19:13:30 +0000",
+      "image": null,
+      "score": 8,
+      "reason": "Article fondamental sur l'architecture réactive en JavaScript : propose une alternative minimaliste au TC39 Signals proposal en standardisant un protocole d'invalidation explicite plutôt qu'un graphe réactif complet. Essentiel pour comprendre les enjeux architecturaux futurs de Next.js, des frameworks modernes et de l'interopérabilité des systèmes réactifs.",
+      "tags": [
+        "javascript",
+        "typescript",
+        "nextjs",
+        "architecture"
+      ],
+      "fetchedAt": "2026-07-20T19:37:42.795Z"
+    },
+    {
+      "id": "ce2589b0f34b7cf2",
+      "title": "The Craft Behind Memorable Digital Experiences: Inside Unseen Studio",
+      "url": "https://tympanus.net/codrops/2026/07/20/the-craft-behind-memorable-digital-experiences-inside-unseen-studio/",
+      "source": "Codrops",
+      "date": "Mon, 20 Jul 2026 09:45:16 +0000",
+      "image": null,
+      "score": 8,
+      "reason": "Étude de cas d'agence créative alignée avec la spécialité Creative Development de Matthias ; insights précieux sur la transformation d'idées complexes en expériences mémorables, probablement avec des techniques d'animation et de narration web avancées.",
+      "tags": [
+        "creative-development",
+        "gsap",
+        "ux-design",
+        "animations"
+      ],
+      "fetchedAt": "2026-07-20T19:38:37.918Z"
     },
     {
       "id": "df82d4bf992f7b0a",
