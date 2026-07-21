@@ -1,6 +1,25 @@
 {
-  "lastUpdate": "2026-07-21T08:19:12.856Z",
+  "lastUpdate": "2026-07-21T19:14:34.376Z",
   "articles": [
+    {
+      "id": "5e30dddba34dba16",
+      "title": "Magnetic Commerce: Building the Dash Creative Website",
+      "url": "https://tympanus.net/codrops/2026/07/21/magnetic-commerce-building-the-dash-creative-website/",
+      "source": "Codrops",
+      "date": "Tue, 21 Jul 2026 12:50:15 +0000",
+      "image": null,
+      "score": 9,
+      "reason": "Étude de cas concrète sur l'intégration de WebGL et animations avancées dans un projet web commercial — exactement le type de contenu qui aide Matthias à franchir le pas sur Three.js/WebGL tout en maintenant une approche créative et performante.",
+      "tags": [
+        "webgl",
+        "threejs",
+        "gsap",
+        "creative-development",
+        "animation",
+        "performance"
+      ],
+      "fetchedAt": "2026-07-21T19:12:13.459Z"
+    },
     {
       "id": "493ca2c5ea0ebcf0",
       "title": "The BFF Pattern: Your API Token Has No Business in the Browser",
