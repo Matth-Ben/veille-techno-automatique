@@ -1,5 +1,5 @@
 {
-  "lastUpdate": "2026-07-20T19:40:28.170Z",
+  "lastUpdate": "2026-07-21T08:19:12.856Z",
   "articles": [
     {
       "id": "493ca2c5ea0ebcf0",
@@ -675,6 +675,23 @@
         "tooling"
       ],
       "fetchedAt": "2026-06-30T16:04:12.285Z"
+    },
+    {
+      "id": "28d6a5b5952a5222",
+      "title": "A 100% client-side toolbox: shipping 17 calculators with no backend",
+      "url": "https://dev.to/furiosastudio/a-100-client-side-toolbox-shipping-17-calculators-with-no-backend-506d",
+      "source": "Dev.to",
+      "date": "Tue, 21 Jul 2026 08:00:04 +0000",
+      "image": null,
+      "score": 7,
+      "reason": "Excellent étude de cas sur l'architecture client-side pure, la code-splitting et l'optimisation de bundle — pertinent pour sa maîtrise de la performance web et des patterns modernes, même si hors de son domaine métier direct.",
+      "tags": [
+        "javascript",
+        "typescript",
+        "webgl",
+        "performance"
+      ],
+      "fetchedAt": "2026-07-21T08:16:03.561Z"
     },
     {
       "id": "41ad90d14f82e908",
