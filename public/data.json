@@ -1,5 +1,5 @@
 {
-  "lastUpdate": "2026-07-22T08:19:54.872Z",
+  "lastUpdate": "2026-07-22T19:08:02.315Z",
   "articles": [
     {
       "id": "5e30dddba34dba16",
@@ -694,6 +694,23 @@
         "tooling"
       ],
       "fetchedAt": "2026-06-30T16:04:12.285Z"
+    },
+    {
+      "id": "9cda18dbd02fbe64",
+      "title": "Building Ridgeline: Engineering a Real-Time 3D Experience in Webflow",
+      "url": "https://tympanus.net/codrops/2026/07/22/building-ridgeline-engineering-a-real-time-3d-experience-in-webflow/",
+      "source": "Codrops",
+      "date": "Wed, 22 Jul 2026 13:52:06 +0000",
+      "image": null,
+      "score": 7,
+      "reason": "Cas d'étude pertinent sur l'intégration de 3D en production web et optimisations de performance, mais limité par le contexte Webflow qui ne correspond pas directement à sa stack habituelle (Next.js, sur-mesure). Utile pour comprendre les patterns de rendu temps réel et les compromis architecturaux.",
+      "tags": [
+        "threejs",
+        "webgl",
+        "performance",
+        "animation"
+      ],
+      "fetchedAt": "2026-07-22T19:05:45.922Z"
     },
     {
       "id": "28d6a5b5952a5222",
