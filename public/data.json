@@ -1,5 +1,5 @@
 {
-  "lastUpdate": "2026-07-23T08:23:34.682Z",
+  "lastUpdate": "2026-07-23T19:08:54.335Z",
   "articles": [
     {
       "id": "5e30dddba34dba16",
@@ -694,6 +694,22 @@
         "tooling"
       ],
       "fetchedAt": "2026-06-30T16:04:12.285Z"
+    },
+    {
+      "id": "05a7d8d415134aa1",
+      "title": "Building Cerebrium: Making Serverless Infrastructure Tangible",
+      "url": "https://tympanus.net/codrops/2026/07/23/building-cerebrium-making-serverless-infrastructure-tangible/",
+      "source": "Codrops",
+      "date": "Thu, 23 Jul 2026 14:09:05 +0000",
+      "image": null,
+      "score": 7,
+      "reason": "Cas d'étude pertinent sur l'utilisation de Three.js/WebGL pour visualiser des concepts complexes ; utile pour démystifier Three.js dans un contexte professionnel et explorer comment l'intégrer sur des projets web classiques.",
+      "tags": [
+        "threejs",
+        "webgl",
+        "creative-development"
+      ],
+      "fetchedAt": "2026-07-23T19:06:49.920Z"
     },
     {
       "id": "9cda18dbd02fbe64",
