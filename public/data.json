@@ -1,5 +1,5 @@
 {
-  "lastUpdate": "2026-07-23T19:08:54.335Z",
+  "lastUpdate": "2026-07-24T08:18:20.281Z",
   "articles": [
     {
       "id": "5e30dddba34dba16",
@@ -694,6 +694,22 @@
         "tooling"
       ],
       "fetchedAt": "2026-06-30T16:04:12.285Z"
+    },
+    {
+      "id": "e96eb1dd4499e670",
+      "title": "How to get started with Web Accessibility in 2026",
+      "url": "https://dev.to/josefine/how-to-get-started-with-web-accessibility-in-2026-2o6p",
+      "source": "Dev.to",
+      "date": "Fri, 24 Jul 2026 08:01:31 +0000",
+      "image": null,
+      "score": 7,
+      "reason": "Article de synthèse utile sur l'accessibilité web en 2026 avec focus sur la EAA et l'impact des LLM, mais trop généraliste pour un expert RGAA certifié ; manque de profondeur technique et de patterns ARIA avancés.",
+      "tags": [
+        "accessibilite",
+        "rgaa",
+        "wcag"
+      ],
+      "fetchedAt": "2026-07-24T08:15:02.212Z"
     },
     {
       "id": "05a7d8d415134aa1",
