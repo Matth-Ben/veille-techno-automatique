@@ -1,6 +1,25 @@
 {
-  "lastUpdate": "2026-07-24T08:18:20.281Z",
+  "lastUpdate": "2026-07-24T19:20:00.864Z",
   "articles": [
+    {
+      "id": "7abc240d42694030",
+      "title": "25: Tauri, React Three Fiber, and Rust: The Modern Tech Stack Behind Keyboard Simulator",
+      "url": "https://dev.to/roboticela/25-tauri-react-three-fiber-and-rust-the-modern-tech-stack-behind-keyboard-simulator-3337",
+      "source": "Dev.to",
+      "date": "Fri, 24 Jul 2026 19:01:00 +0000",
+      "image": null,
+      "score": 9,
+      "reason": "Cas d'usage concret et détaillé de Tauri 2 + React Three Fiber pour une application desktop moderne ; démontre comment intégrer Three.js dans une stack React sans surcharge, avec Rust en backend pour la performance — exactement ce qui manque à Matthias pour franchir le pas sur Three.js et explorer les alternatives à Electron.",
+      "tags": [
+        "tauri",
+        "threejs",
+        "react",
+        "typescript",
+        "framer-motion",
+        "tailwind"
+      ],
+      "fetchedAt": "2026-07-24T19:17:39.092Z"
+    },
     {
       "id": "5e30dddba34dba16",
       "title": "Magnetic Commerce: Building the Dash Creative Website",
