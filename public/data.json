@@ -1,5 +1,5 @@
 {
-  "lastUpdate": "2026-07-25T08:00:16.995Z",
+  "lastUpdate": "2026-07-25T19:02:08.459Z",
   "articles": [
     {
       "id": "7abc240d42694030",
@@ -713,6 +713,23 @@
         "tooling"
       ],
       "fetchedAt": "2026-06-30T16:04:12.285Z"
+    },
+    {
+      "id": "acb668cceb0e6f55",
+      "title": "The Multiple Browser Tab Token Trap: Synchronizing JWT Refresh Across Browser Tabs",
+      "url": "https://dev.to/nileshcodehub/the-multiple-browser-tab-token-trap-synchronizing-jwt-refresh-across-browser-tabs-45f6",
+      "source": "Dev.to",
+      "date": "Sat, 25 Jul 2026 18:21:53 +0000",
+      "image": null,
+      "score": 7,
+      "reason": "Article technique solide sur un problème réel en SPA multi-onglets (Web Locks API + Axios interceptors). Pertinent pour l'architecture frontend senior, mais hors de sa roadmap prioritaire (pas de Creative Dev, Three.js, ou accessibilité avancée).",
+      "tags": [
+        "javascript",
+        "typescript",
+        "api",
+        "security"
+      ],
+      "fetchedAt": "2026-07-25T18:59:04.803Z"
     },
     {
       "id": "b04e2e7f18c98426",
