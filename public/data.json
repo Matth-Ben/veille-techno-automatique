@@ -1,5 +1,5 @@
 {
-  "lastUpdate": "2026-07-24T19:20:00.864Z",
+  "lastUpdate": "2026-07-25T08:00:16.995Z",
   "articles": [
     {
       "id": "7abc240d42694030",
@@ -713,6 +713,21 @@
         "tooling"
       ],
       "fetchedAt": "2026-06-30T16:04:12.285Z"
+    },
+    {
+      "id": "b04e2e7f18c98426",
+      "title": "TypeScript Recursive Types in 2026: Modeling JSON, Trees, and Deep Partial Without Hitting the Limit",
+      "url": "https://dev.to/jsmanifest/typescript-recursive-types-in-2026-modeling-json-trees-and-deep-partial-without-hitting-the-limit-8b3",
+      "source": "Dev.to",
+      "date": "Sat, 25 Jul 2026 07:37:03 +0000",
+      "image": "https://media2.dev.to/dynamic/image/width=800%2Cheight=%2Cfit=scale-down%2Cgravity=auto%2Cformat=auto/https%3A%2F%2Fdev-to-uploads.s3.us-east-2.amazonaws.com%2Fuploads%2Farticles%2Fm3f83fvn4llugkas4sph.png",
+      "score": 7,
+      "reason": "Article technique solide sur les types récursifs TypeScript avec exemples concrets (JSONValue, FileSystemNode, DeepPartial). Utile pour renforcer l'architecture TypeScript de Matthias et la gestion type-safe des structures imbriquées, bien que moins directement lié à sa spécialité créative.",
+      "tags": [
+        "typescript",
+        "nextjs"
+      ],
+      "fetchedAt": "2026-07-25T07:57:47.464Z"
     },
     {
       "id": "e96eb1dd4499e670",
