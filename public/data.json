@@ -1,5 +1,5 @@
 {
-  "lastUpdate": "2026-07-27T09:42:44.635Z",
+  "lastUpdate": "2026-07-27T19:21:45.265Z",
   "articles": [
     {
       "id": "7abc240d42694030",
@@ -315,6 +315,22 @@
         "tutorial"
       ],
       "fetchedAt": "2026-06-30T16:03:50.699Z"
+    },
+    {
+      "id": "7d09f5213a2067c0",
+      "title": "Nuxt July 2026 security advisory",
+      "url": "https://vercel.com/changelog/nuxt-july-2026-security-advisory",
+      "source": "Vercel Blog",
+      "date": "2026-07-27T00:00:00.000Z",
+      "image": null,
+      "score": 8,
+      "reason": "Avis de sécurité critique pour Nuxt avec RCE haute sévérité et bypass d'autorisation — essentiel pour tout développeur utilisant Nuxt en production, particulièrement pour les architectures Server Actions et composants serveur.",
+      "tags": [
+        "nextjs",
+        "security",
+        "javascript"
+      ],
+      "fetchedAt": "2026-07-27T19:20:05.014Z"
     },
     {
       "id": "d7f96948d6717366",
