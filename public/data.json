@@ -1,5 +1,5 @@
 {
-  "lastUpdate": "2026-07-28T08:27:20.255Z",
+  "lastUpdate": "2026-07-28T19:18:14.541Z",
   "articles": [
     {
       "id": "60e648cb0e24b6ce",
@@ -331,6 +331,22 @@
         "tutorial"
       ],
       "fetchedAt": "2026-06-30T16:03:50.699Z"
+    },
+    {
+      "id": "0fb907bb10f1c347",
+      "title": "How We Cut Our Homepage TTFB from 800ms to Under 200ms (and Refreshed the Hero While We Were At It)",
+      "url": "https://dev.to/nana_tech_66af0dae5019284/how-we-cut-our-homepage-ttfb-from-800ms-to-under-200ms-and-refreshed-the-hero-while-we-were-at-it-30ll",
+      "source": "Dev.to",
+      "date": "Tue, 28 Jul 2026 18:40:32 +0000",
+      "image": null,
+      "score": 8,
+      "reason": "Cas d'étude complet et actionnable sur l'optimisation Next.js en production : cache headers, ISR, Core Web Vitals, et A/B testing server-side sans dégradation de performance. Directement applicable à ses projets de haute performance.",
+      "tags": [
+        "nextjs",
+        "performance",
+        "typescript"
+      ],
+      "fetchedAt": "2026-07-28T19:15:08.967Z"
     },
     {
       "id": "7d09f5213a2067c0",
