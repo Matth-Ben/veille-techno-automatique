@@ -1,6 +1,22 @@
 {
-  "lastUpdate": "2026-07-27T19:21:45.265Z",
+  "lastUpdate": "2026-07-28T08:27:20.255Z",
   "articles": [
+    {
+      "id": "60e648cb0e24b6ce",
+      "title": "Did it check, or did it guess? Testing a tool whose output is written by an LLM",
+      "url": "https://dev.to/dragosbln/did-it-check-or-did-it-guess-testing-a-tool-whose-output-is-written-by-an-llm-1i4c",
+      "source": "Dev.to",
+      "date": "Tue, 28 Jul 2026 08:10:31 +0000",
+      "image": "https://media2.dev.to/dynamic/image/width=800%2Cheight=%2Cfit=scale-down%2Cgravity=auto%2Cformat=auto/https%3A%2F%2Fdev-to-uploads.s3.us-east-2.amazonaws.com%2Fuploads%2Farticles%2Fclpuqeiypn9a8184san2.png",
+      "score": 9,
+      "reason": "Article fondamental sur la testabilité des outils IA en production : démontre comment structurer les outputs (JSON canonique + vues rendues) pour forcer l'honnêteté du modèle, combiner assertions mécaniques et prose libre, et bâtir une couche de tests multi-niveaux (schema, invariants, fixtures, mutations). Directement applicable à ses futurs projets d'IA et à sa montée en expertise architecturale.",
+      "tags": [
+        "api",
+        "security",
+        "typescript"
+      ],
+      "fetchedAt": "2026-07-28T08:24:06.067Z"
+    },
     {
       "id": "7abc240d42694030",
       "title": "25: Tauri, React Three Fiber, and Rust: The Modern Tech Stack Behind Keyboard Simulator",
