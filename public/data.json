@@ -1,5 +1,5 @@
 {
-  "lastUpdate": "2026-07-29T08:33:59.209Z",
+  "lastUpdate": "2026-07-29T19:08:03.870Z",
   "articles": [
     {
       "id": "60e648cb0e24b6ce",
@@ -761,6 +761,21 @@
         "tooling"
       ],
       "fetchedAt": "2026-06-30T16:04:12.285Z"
+    },
+    {
+      "id": "cc6fbb6a3fa5324b",
+      "title": "Next.js Sitemap Not Updating? Here's the Real Fix",
+      "url": "https://dev.to/techpotions/nextjs-sitemap-not-updating-heres-the-real-fix-2257",
+      "source": "Dev.to",
+      "date": "Wed, 29 Jul 2026 18:34:14 +0000",
+      "image": null,
+      "score": 7,
+      "reason": "Article technique solide sur un bug réel de Next.js (cache layers et sitemaps) avec solution concrète et reproducible. Utile pour la maîtrise de l'architecture Next.js et la performance, mais limité à un cas d'usage spécifique sans impact direct sur sa roadmap créative ou d'accessibilité.",
+      "tags": [
+        "nextjs",
+        "javascript"
+      ],
+      "fetchedAt": "2026-07-29T19:04:59.836Z"
     },
     {
       "id": "acb668cceb0e6f55",
