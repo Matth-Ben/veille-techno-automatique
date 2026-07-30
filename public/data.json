@@ -1,5 +1,5 @@
 {
-  "lastUpdate": "2026-07-29T19:08:03.870Z",
+  "lastUpdate": "2026-07-30T08:17:33.194Z",
   "articles": [
     {
       "id": "60e648cb0e24b6ce",
@@ -761,6 +761,24 @@
         "tooling"
       ],
       "fetchedAt": "2026-06-30T16:04:12.285Z"
+    },
+    {
+      "id": "33d424f97528b079",
+      "title": "Studio Freight: Moving Missions Forward",
+      "url": "https://tympanus.net/codrops/2026/07/29/studio-freight-moving-missions-forward/",
+      "source": "Codrops",
+      "date": "Wed, 29 Jul 2026 12:41:45 +0000",
+      "image": null,
+      "score": 7,
+      "reason": "Étude de cas d'une agence créative reconnue pour ses animations fluides et expériences digitales innovantes ; pertinent pour comprendre l'approche stratégique du Creative Development et s'inspirer de leurs techniques GSAP/Barba.js en production.",
+      "tags": [
+        "creative-development",
+        "gsap",
+        "barbajs",
+        "design",
+        "performance"
+      ],
+      "fetchedAt": "2026-07-30T08:15:08.134Z"
     },
     {
       "id": "cc6fbb6a3fa5324b",
