@@ -1,6 +1,43 @@
 {
-  "lastUpdate": "2026-07-30T08:17:33.194Z",
+  "lastUpdate": "2026-07-30T19:19:49.293Z",
   "articles": [
+    {
+      "id": "2e4384d61af896c9",
+      "title": "PISCA: I turned an Andean breakfast soup into an interactive landscape",
+      "url": "https://dev.to/terrizoaguimor/pisca-i-turned-an-andean-breakfast-soup-into-an-interactive-landscape-18j8",
+      "source": "Dev.to",
+      "date": "Thu, 30 Jul 2026 19:09:35 +0000",
+      "image": null,
+      "score": 9,
+      "reason": "Exemplaire de Creative Development haute performance : interaction minimaliste et intentionnelle, SVG/CSS natif sans framework, accessibilité intégrée dès la conception (WCAG A/AA, reduced-motion, bilinguisme), TypeScript strict, et testing exhaustif (Playwright + Axe). Cas d'école pour lier narration visuelle, performance et RGAA.",
+      "tags": [
+        "creative-development",
+        "svg",
+        "css",
+        "typescript",
+        "accessibilite",
+        "rgaa",
+        "performance",
+        "vite"
+      ],
+      "fetchedAt": "2026-07-30T19:16:25.516Z"
+    },
+    {
+      "id": "f442e60179d33774",
+      "title": "Building an Infinite GSAP Scroll Gallery with Parallax and Flip Transitions",
+      "url": "https://tympanus.net/codrops/2026/07/30/building-an-infinite-gsap-scroll-gallery-with-parallax-and-flip-transitions/",
+      "source": "Codrops",
+      "date": "Thu, 30 Jul 2026 14:16:27 +0000",
+      "image": null,
+      "score": 9,
+      "reason": "Combine GSAP avancé, animations fluides et transitions créatives—exactement le type de Creative Development haute performance que Matthias maîtrise et doit approfondir pour rester compétitif face aux IA.",
+      "tags": [
+        "gsap",
+        "javascript",
+        "accessibilite"
+      ],
+      "fetchedAt": "2026-07-30T19:17:30.582Z"
+    },
     {
       "id": "60e648cb0e24b6ce",
       "title": "Did it check, or did it guess? Testing a tool whose output is written by an LLM",
