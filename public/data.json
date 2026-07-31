@@ -1,5 +1,5 @@
 {
-  "lastUpdate": "2026-07-31T08:44:09.990Z",
+  "lastUpdate": "2026-07-31T19:19:02.776Z",
   "articles": [
     {
       "id": "2e4384d61af896c9",
@@ -368,6 +368,22 @@
         "tutorial"
       ],
       "fetchedAt": "2026-06-30T16:03:50.699Z"
+    },
+    {
+      "id": "47e38fe07bf8b088",
+      "title": "From 1.2GB to 24MB: How I Sped Up Our Next.js CI/CD Pipeline by 4 in One Afternoon",
+      "url": "https://dev.to/stevez/from-12gb-to-24mb-how-i-sped-up-our-nextjs-cicd-pipeline-by-4-in-one-afternoon-3523",
+      "source": "Dev.to",
+      "date": "Fri, 31 Jul 2026 18:58:41 +0000",
+      "image": null,
+      "score": 8,
+      "reason": "Cas d'école d'optimisation Next.js en production : démontre l'impact concret de `output: 'standalone'` sur les pipelines CI/CD, architecture Azure DevOps, et bonnes pratiques de déploiement — directement applicable à ses projets sur-mesure haute performance.",
+      "tags": [
+        "nextjs",
+        "typescript",
+        "security"
+      ],
+      "fetchedAt": "2026-07-31T19:15:54.941Z"
     },
     {
       "id": "0fb907bb10f1c347",
