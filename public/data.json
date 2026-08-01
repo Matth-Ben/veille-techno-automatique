@@ -1,5 +1,5 @@
 {
-  "lastUpdate": "2026-08-01T08:11:05.988Z",
+  "lastUpdate": "2026-08-01T19:01:34.708Z",
   "articles": [
     {
       "id": "2e4384d61af896c9",
@@ -368,6 +368,22 @@
         "tutorial"
       ],
       "fetchedAt": "2026-06-30T16:03:50.699Z"
+    },
+    {
+      "id": "21e824b3a7199051",
+      "title": "60 AI-written WordPress plugins, and JavaScript escaping that is safe by accident",
+      "url": "https://dev.to/lunetrax/60-ai-written-wordpress-plugins-and-javascript-escaping-that-is-safe-by-accident-4592",
+      "source": "Dev.to",
+      "date": "Sat, 01 Aug 2026 18:40:02 +0000",
+      "image": null,
+      "score": 8,
+      "reason": "Étude rigoureuse et fondamentale sur l'échappement contextuel en WordPress/PHP, directement applicable à la sécurité des plugins sur-mesure ; démontre comment les assistants IA produisent du code 'accidentellement sûr' plutôt que 'intentionnellement sûr', essentiel pour valider la qualité des générations de code.",
+      "tags": [
+        "wordpress",
+        "security",
+        "javascript"
+      ],
+      "fetchedAt": "2026-08-01T19:00:17.732Z"
     },
     {
       "id": "47e38fe07bf8b088",
@@ -1611,21 +1627,6 @@
         "tooling"
       ],
       "fetchedAt": "2026-06-30T16:04:42.032Z"
-    },
-    {
-      "id": "c652b6f3bdf95152",
-      "title": "The Siren Song of ariaNotify()",
-      "url": "https://css-tricks.com/the-siren-song-of-arianotify/",
-      "source": "CSS-Tricks",
-      "date": "Wed, 17 Jun 2026 15:32:30 +0000",
-      "score": 7,
-      "reason": "Article pertinent sur une nouvelle API d'accessibilité (ariaNotify) du WAI-ARIA 1.3. Utile pour les développeurs travaillant sur l'accessibilité web, bien que spécialisé et non applicable à tous les projets.",
-      "tags": [
-        "a11y",
-        "javascript",
-        "api"
-      ],
-      "fetchedAt": "2026-06-30T16:04:54.055Z"
     }
   ]
 }
